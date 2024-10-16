@@ -1,0 +1,763 @@
+biomarker_type	id	name	gene_name	uniprot_id	conditions	indication_types	concentration	age	sex	biofluid	protein_sequence	citation
+Protein	1	Glycated hemoglobin	HBA1	P69905	Diabetes Mellitus Type 2	Diagnostic	>6.5 %	Adult: >=18 yrs old	Both	Serum	Lee, J. M., Wu, E. L., Tarini, B., Herman, W. H. & Yoon, E. Diagnosis of diabetes using hemoglobin A1c: should recommendations in adults be extrapolated to adolescents? J Pediatr 158, 947-952.e1 (2011).
+Protein	1	Glycated hemoglobin	HBA1	P69905	Diabetes Mellitus Type 2	Diagnostic	>6.5 %	Adolescent:13-18 yrs old	Both	Serum	Lee, J. M., Wu, E. L., Tarini, B., Herman, W. H. & Yoon, E. Diagnosis of diabetes using hemoglobin A1c: should recommendations in adults be extrapolated to adolescents? J Pediatr 158, 947-952.e1 (2011).
+Protein	1	Glycated hemoglobin	HBA1	P69905	Diabetes Mellitus Type 2	Diagnostic	>6.5 %	Adult: >=18 yrs old	Both	blood	Mayo clinic: A1C test
+Protein	1	Glycated hemoglobin	HBA1	P69905	Normal	Diagnostic	<5.7 %	Adult: >=18 yrs old	Both	blood	Mayo clinic: A1C test
+Protein	1	Glycated hemoglobin	HBA1	P69905	Normal	Diagnostic	<6.5 %	Adolescent:13-18 yrs old	Both	Serum	Lee, J. M., Wu, E. L., Tarini, B., Herman, W. H. & Yoon, E. Diagnosis of diabetes using hemoglobin A1c: should recommendations in adults be extrapolated to adolescents? J Pediatr 158, 947-952.e1 (2011).
+Protein	1	Glycated hemoglobin	HBA1	P69905	Normal	Diagnostic	<6.5 %	Adult: >=18 yrs old	Both	Serum	Lee, J. M., Wu, E. L., Tarini, B., Herman, W. H. & Yoon, E. Diagnosis of diabetes using hemoglobin A1c: should recommendations in adults be extrapolated to adolescents? J Pediatr 158, 947-952.e1 (2011).
+Protein	2	Angiotensin-converting enzyme	ACE	P12821	Sarcoidosis	Diagnostic	>40 nmol/mL/min	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Angiotensin Converting Enzyme (Blood)
+Protein	2	Angiotensin-converting enzyme	ACE	P12821	Normal	Diagnostic	<40 nmol/mL/min	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Angiotensin Converting Enzyme (Blood)
+Protein	2	Angiotensin-converting enzyme	ACE	P12821	Normal	Diagnostic	25.44+-13.38 U/L	Adult: >=18 yrs old	Both	Serum	Lee, J. M., Wu, E. L., Tarini, B., Herman, W. H. & Yoon, E. Diagnosis of diabetes using hemoglobin A1c: should recommendations in adults be extrapolated to adolescents? J Pediatr 158, 947-952.e1 (2011).
+Protein	3	Anti-acetylcholine receptor antibody			Myasthenia Gravis	Diagnostic	>0.4 nmol/L	Adult: >=18 yrs old	Both	Serum	Ferrero, B., Aimo, G., Pagni, R., Bergamasco, B., Bongioanni, M. R., Bergamini, L. & Durelli, L. Modified and improved anti-acetylcholine receptor (AchR) antibody assay: comparison of analytical and clinical performance with conventional anti-AChR antibody assay. Clin Chem 43, 824-831 (1997).
+Protein	3	Anti-acetylcholine receptor antibody			Normal	Diagnostic	<=0.4 nmol/L	Adult: >=18 yrs old	Both	Serum	Ferrero, B., Aimo, G., Pagni, R., Bergamasco, B., Bongioanni, M. R., Bergamini, L. & Durelli, L. Modified and improved anti-acetylcholine receptor (AchR) antibody assay: comparison of analytical and clinical performance with conventional anti-AChR antibody assay. Clin Chem 43, 824-831 (1997).
+Protein	6	Adenosine deaminase	ADA	P00813	Tuberculosis	Diagnostic	>14 U/L	Adult: >=18 yrs old	Both	Serum	Afrasiabian, S., Mohsenpour, B., Bagheri, K. H., Sigari, N. & Aftabi, K. Diagnostic value of serum adenosine deaminase level in pulmonary tuberculosis. J Res Med Sci 18, 252-254 (2013).
+Protein	6	Adenosine deaminase	ADA	P00813	Normal	Diagnostic	10.69 (7.71-13.67) U/L	Adult: >=18 yrs old	Both	Serum	Afrasiabian, S., Mohsenpour, B., Bagheri, K. H., Sigari, N. & Aftabi, K. Diagnostic value of serum adenosine deaminase level in pulmonary tuberculosis. J Res Med Sci 18, 252-254 (2013).
+Protein	7	Alpha-fetoprotein	AFP	P02771	Hepatocellular Carcinoma	Diagnostic	>21 ng/mL	Adult: >=18 yrs old	Both	Serum	Song, P., Feng, X., Inagaki, Y., Song, T., Zhang, K., Wang, Z., Zheng, S., Ma, K., Li, Q., Kong, D., Wu, Q., Zhang, T., Zhao, X., Hasegawa, K., Sugawara, Y., Kokudo, N. & Tang, W. Clinical utility of simultaneous measurement of alpha-fetoprotein and des-gamma-carboxy prothrombin for diagnosis of patients with hepatocellular carcinoma in China: A multi-center case-controlled study of 1,153 subjects. Biosci Trends 8, 266-273 (2014).
+Protein	7	Alpha-fetoprotein	AFP	P02771	Normal	Diagnostic	<10 ng/mL	Adult: >=18 yrs old	Both	Serum	University of Rochester Medical Center: Alpha-Fetoprotein Tumor marker
+Protein	7	Alpha-fetoprotein	AFP	P02771	Renal Cell Carcinoma	Diagnostic	>500 ng/mL	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Alpha-fetaprotein tumor marker
+Protein	7	Alpha-fetoprotein	AFP	P02771	Normal	Diagnostic	<10 ng/mL	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Alpha-fetaprotein tumor marker
+Protein	7	Alpha-fetoprotein	AFP	P02771	Hodgkin's disease	Diagnostic	>500 ng/mL	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Alpha-fetaprotein tumor marker
+Protein	7	Alpha-fetoprotein	AFP	P02771	Normal	Diagnostic	<10 ng/mL	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Alpha-fetaprotein tumor marker
+Protein	7	Alpha-fetoprotein	AFP	P02771	Lymphoma	Diagnostic	>500 ng/mL	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Alpha-fetaprotein tumor marker
+Protein	7	Alpha-fetoprotein	AFP	P02771	Normal	Diagnostic	<10 ng/mL	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Alpha-fetaprotein tumor marker
+Protein	8	Pappalysin-1	PAPPA	Q13219	Preterm Birth	Diagnostic	<0.76 MoM	Adult: >=18 yrs old	Female	Serum	Cohen, J. L., Smilen, K. E., Bianco, A. T., Moshier, E. L., Ferrara, L. A. & Stone, J. L. Predictive value of combined serum biomarkers for adverse pregnancy outcomes. Eur J Obstet Gynecol Reprod Biol 181, 89-94 (2014).
+Protein	8	Pappalysin-1	PAPPA	Q13219	Low Birth Weight	Diagnostic	<1.00 MoM	Adult: >=18 yrs old	Female	Serum	Cohen, J. L., Smilen, K. E., Bianco, A. T., Moshier, E. L., Ferrara, L. A. & Stone, J. L. Predictive value of combined serum biomarkers for adverse pregnancy outcomes. Eur J Obstet Gynecol Reprod Biol 181, 89-94 (2014).
+Protein	8	Pappalysin-1	PAPPA	Q13219	Preeclampsia/Eclampsia	Diagnostic	<0.87 MoM	Adult: >=18 yrs old	Female	Serum	Cohen, J. L., Smilen, K. E., Bianco, A. T., Moshier, E. L., Ferrara, L. A. & Stone, J. L. Predictive value of combined serum biomarkers for adverse pregnancy outcomes. Eur J Obstet Gynecol Reprod Biol 181, 89-94 (2014).
+Protein	8	Pappalysin-1	PAPPA	Q13219	Normal	Diagnostic	>0.5 Multiple of the Median (MoM)	Adult: >=18 yrs old	Female	blood	Pubmed_ID: 24757339
+Protein	8	Pappalysin-1	PAPPA	Q13219	Normal	Diagnostic	>0.5 Multiple of the Median (MoM)	Adult: >=18 yrs old	Female	blood	Pubmed_ID: 24757339
+Protein	8	Pappalysin-1	PAPPA	Q13219	Normal	Diagnostic	>0.5 Multiple of the Median (MoM)	Adult: >=18 yrs old	Female	blood	Pubmed_ID: 24757339
+Protein	8	Pappalysin-1	PAPPA	Q13219	Down Syndrome	Diagnostic	<0.4 Muliple of the Mean (MoM)	Adult: >=18 yrs old	Female	blood	The Pennine Acute Hospital Low PAPP-A guide
+Protein	8	Pappalysin-1	PAPPA	Q13219	Normal	Diagnostic	1 Muliple of the Mean (MoM)	Adult: >=18 yrs old	Female	blood	The Pennine Acute Hospital Low PAPP-A guide
+Protein	10	Aldolase A	ALDOB	P05062	Liver Disease	Diagnostic	>7.5 U/L	Adult: >=18 yrs old	Both	blood	Health line: Aldolase
+Protein	10	Aldolase A	ALDOB	P05062	Normal	Diagnostic	4.25 (1-7.5) U/L	Adult: >=18 yrs old	Both	blood	Health line: ALD test
+Protein	10	Aldolase A	ALDOB	P05062	Liver Disease	Diagnostic	>14.5 U/L	Children: 2-17 yrs old	Both	blood	Health line: Aldolase
+Protein	10	Aldolase A	ALDOB	P05062	Normal	Diagnostic	<14.5 U/L	Children: 2-17 yrs old	Both	blood	Health line: ALD test
+Protein	10	Aldolase A	ALDOB	P05062	Myocardial Infarction	Diagnostic	>7.5 U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Normal	Diagnostic	4.25 (1-7.5) U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Cirrhosis	Diagnostic	>7.5 U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Normal	Diagnostic	4.25 (1-7.5) U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Prostate Cancer	Diagnostic	>7.5 U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Normal	Diagnostic	4.25 (1-7.5) U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Leukemia	Diagnostic	>7.5 U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Normal	Diagnostic	4.25 (1-7.5) U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Pancreatic Cancer	Diagnostic	>7.5 U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Normal	Diagnostic	4.25 (1-7.5) U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Renal Cell Carcinoma	Diagnostic	>7.5 U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Normal	Diagnostic	4.25 (1-7.5) U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Hepatocellular Carcinoma	Diagnostic	>7.5 U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Normal	Diagnostic	4.25 (1-7.5) U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Hepatitis	Diagnostic	>7.5 U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Normal	Diagnostic	4.25 (1-7.5) U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Muscular dystrophy	Diagnostic	>7.5 U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Normal	Diagnostic	4.25 (1-7.5) U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Muscle atrophy	Diagnostic	<2 U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Normal	Diagnostic	4.25 (1-7.5) U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Fructose intolerance	Diagnostic	<2 U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Normal	Diagnostic	4.25 (1-7.5) U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Muscular dystrophy	Diagnostic	<2 U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	10	Aldolase A	ALDOB	P05062	Normal	Diagnostic	4.25 (1-7.5) U/L	Adult: >=18 yrs old	Both	blood	Healthline: adolase test
+Protein	12	Alpha-1-antitrypsin	SERPINA1	P01009	Alpha 1 Antitrypsin Deficiency	Diagnostic	<120 mg/dL	Adult: >=18 yrs old	Both	Serum	Corda, L., Bertella, E., Pini, L., Pezzini, A., Medicina, D., Boni, E., Guerini, M., Trivella, S., Grassi, V. & Tantucci, C. Diagnostic flow chart for targeted detection of alpha1-antitrypsin deficiency. Respir Med 100, 463-470 (2006).
+Protein	12	Alpha-1-antitrypsin	SERPINA1	P01009	Normal	Diagnostic	133 (112-154) mg/dL	Adult: >=18 yrs old	Both	blood	Corda, L., Bertella, E., Pini, L., Pezzini, A., Medicina, D., Boni, E., Guerini, M., Trivella, S., Grassi, V. & Tantucci, C. Diagnostic flow chart for targeted detection of alpha1-antitrypsin deficiency. Respir Med 100, 463-470 (2006).
+Protein	13	Serum amyloid A-1 protein	SAA1	P0DJI8	Normal	Diagnostic	21.05 (2.5-39.6) ug/mL	Adult: >=18 yrs old	Both	Serum	Miyoshi, S., Hamada, H., Kadowaki, T., Hamaguchi, N., Ito, R., Irifune, K. & Higaki, J. Comparative evaluation of serum markers in pulmonary sarcoidosis. Chest 137, 1391-1397 (2010).
+Protein	14	Interleukin-2 receptor subunit alpha	IL2RA	P01589	Normal	Diagnostic	1246 (369-2123) U/mL	Adult: >=18 yrs old	Both	Serum	Miyoshi, S., Hamada, H., Kadowaki, T., Hamaguchi, N., Ito, R., Irifune, K. & Higaki, J. Comparative evaluation of serum markers in pulmonary sarcoidosis. Chest 137, 1391-1397 (2010).
+Protein	15	Mucin-1	MUC1	P15941	Breast Cancer	Diagnostic	>27.255 U/mL	Adult: >=18 yrs old	Female	Serum	Lawicki, S., Bedkowska, G. E. & Szmitkowski, M. VEGF, M-CSF and CA 15-3 as a new tumor marker panel in breast malignancies: a multivariate analysis with ROC curve. Growth Factors 31, 98-105 (2013).
+Protein	15	Mucin-1	MUC1	P15941	Ovarian Cancer	Diagnostic	> 11 U/mL U/mL	Adult: >=18 yrs old	Female	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	15	Mucin-1	MUC1	P15941	Normal	Diagnostic	< 11 U/mL U/mL	Adult: >=18 yrs old	Female	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	15	Mucin-1	MUC1	P15941	Normal	Diagnostic	16.5 (7-32) U/mL	Adult: >=18 yrs old	Female	Serum	Lawicki, S., Bedkowska, G. E. & Szmitkowski, M. VEGF, M-CSF and CA 15-3 as a new tumor marker panel in breast malignancies: a multivariate analysis with ROC curve. Growth Factors 31, 98-105 (2013).
+Protein	16	Lysozyme C	LYZ	P61626	Normal	Diagnostic	10.75 (4.2-17.3) ug/mL	Adult: >=18 yrs old	Both	Serum	Miyoshi, S., Hamada, H., Kadowaki, T., Hamaguchi, N., Ito, R., Irifune, K. & Higaki, J. Comparative evaluation of serum markers in pulmonary sarcoidosis. Chest 137, 1391-1397 (2010).
+Protein	19	Aspartate Transaminase	GOT1	P17174	Diabetes Mellitus	Diagnostic	>22 U/L	Adult: >=18 yrs old	Male	Serum	Kashima, S., Inoue, K., Matsumoto, M. & Akimoto, K. Do non-glycaemic markers add value to plasma glucose and hemoglobin a1c in predicting diabetes? Yuport health checkup center study. PLoS One 8, e66899 (2013).
+Protein	19	Aspartate Transaminase	GOT1	P17174	Diabetes Mellitus	Diagnostic	>19 U/L	Adult: >=18 yrs old	Female	Serum	Kashima, S., Inoue, K., Matsumoto, M. & Akimoto, K. Do non-glycaemic markers add value to plasma glucose and hemoglobin a1c in predicting diabetes? Yuport health checkup center study. PLoS One 8, e66899 (2013).
+Protein	19	Aspartate Transaminase	GOT1	P17174	Liver Disease	Diagnostic	>20 U/L	Adult: >=18 yrs old	Male	blood	Health link BC: Aspartate Aminotransferase
+Protein	19	Aspartate Transaminase	GOT1	P17174	Normal	Diagnostic	17 (14-20) U/L	Adult: >=18 yrs old	Male	blood	Health link BC: Aspartate Aminotransferase
+Protein	19	Aspartate Transaminase	GOT1	P17174	Liver Disease	Diagnostic	>36 U/L	Adult: >=18 yrs old	Female	blood	Health link BC: Aspartate Aminotransferase
+Protein	19	Aspartate Transaminase	GOT1	P17174	Normal	Diagnostic	23 (10-36) U/L	Adult: >=18 yrs old	Female	blood	Health link BC: Aspartate Aminotransferase
+Protein	19	Aspartate Transaminase	GOT1	P17174	Normal	Diagnostic	20 (17-23) U/L	Adult: >=18 yrs old	Female	Serum	Kashima, S., Inoue, K., Matsumoto, M. & Akimoto, K. Do non-glycaemic markers add value to plasma glucose and hemoglobin a1c in predicting diabetes? Yuport health checkup center study. PLoS One 8, e66899 (2013).
+Protein	19	Aspartate Transaminase	GOT1	P17174	Normal	Diagnostic	22 (18-26) U/L	Adult: >=18 yrs old	Male	Serum	Kashima, S., Inoue, K., Matsumoto, M. & Akimoto, K. Do non-glycaemic markers add value to plasma glucose and hemoglobin a1c in predicting diabetes? Yuport health checkup center study. PLoS One 8, e66899 (2013).
+Protein	20	C-reactive protein	CRP	P02741	Inflammatory Bowel Disease	Diagnostic	>=5 g/L	Adult: >=18 yrs old	Both	Serum	Kennedy, N. A., Clark, A., Walkden, A., Chang, J. C., Fasci-Spurio, F., Muscat, M., Gordon, B. W., Kingstone, K., Satsangi, J., Arnott, I. D. & Lees, C. W. Clinical utility and diagnostic accuracy of faecal calprotectin for IBD at first presentation to gastroenterology services in adults aged 16-50 years. J Crohns Colitis 9, 41-49 (2015).
+Protein	20	C-reactive protein	CRP	P02741	Non-specific Inflammation	Diagnostic	>10 mg/L	Adult: >=18 yrs old	Both	blood	Mayo clinic: C-reactive protein test
+Protein	20	C-reactive protein	CRP	P02741	Normal	Diagnostic	<=10 mg/L	Adult: >=18 yrs old	Both	blood	Mayo clinic: C-reactive protein test
+Protein	20	C-reactive protein	CRP	P02741	Normal	Diagnostic	<0.01 g/L	Adult: >=18 yrs old	Both	Serum	Mayo clinic: CRP test
+Protein	20	C-reactive protein	CRP	P02741	Pregnancy	Diagnostic	>10 mg/L	Adult: >=18 yrs old	Female	serum	Pubmed_ID: 22787338
+Protein	20	C-reactive protein	CRP	P02741	Normal	Diagnostic	<=10 mg/L	Adult: >=18 yrs old	Both	serum	Mayo clinic: C-reactive protein
+Protein	20	C-reactive protein	CRP	P02741	Viral Infection	Diagnostic	35 (10-40) mg/L	Adult: >=18 yrs old	Both	serum	Pubmed_ID: 22787338
+Protein	20	C-reactive protein	CRP	P02741	Normal	Diagnostic	<=10 mg/L	Adult: >=18 yrs old	Both	serum	Mayo clinic: C-reactive protein
+Protein	20	C-reactive protein	CRP	P02741	Bacterial Infections	Diagnostic	120 (40-200) mg/L	Adult: >=18 yrs old	Both	serum	Pubmed_ID: 22787338
+Protein	20	C-reactive protein	CRP	P02741	Normal	Diagnostic	<=10 mg/L	Adult: >=18 yrs old	Both	serum	Mayo clinic: C-reactive protein
+Protein	20	C-reactive protein	CRP	P02741	Diabetes Mellitus Type 2	Diagnostic	>10 mg/L	Adult: >=18 yrs old	Both	serum	Pubmed_ID: 22787338
+Protein	20	C-reactive protein	CRP	P02741	Normal	Diagnostic	<=10 mg/L	Adult: >=18 yrs old	Both	serum	Mayo clinic: C-reactive protein
+Protein	20	C-reactive protein	CRP	P02741	Hypertension	Diagnostic	>10 mg/L	Adult: >=18 yrs old	Both	serum	Pubmed_ID: 22787338
+Protein	20	C-reactive protein	CRP	P02741	Normal	Diagnostic	<=10 mg/L	Adult: >=18 yrs old	Both	serum	Mayo clinic: C-reactive protein
+Protein	20	C-reactive protein	CRP	P02741	Cardiovascular disease	Diagnostic	>10 mg/L	Adult: >=18 yrs old	Both	serum	Pubmed_ID: 22787338
+Protein	20	C-reactive protein	CRP	P02741	Normal	Diagnostic	<=10 mg/L	Adult: >=18 yrs old	Both	serum	Mayo clinic: C-reactive protein
+Protein	20	C-reactive protein	CRP	P02741	Obstructive sleep apnea	Diagnostic	>10 mg/L	Adult: >=18 yrs old	Both	serum	Pubmed_ID: 22787338
+Protein	20	C-reactive protein	CRP	P02741	Normal	Diagnostic	<=10 mg/L	Adult: >=18 yrs old	Both	serum	Mayo clinic: C-reactive protein
+Protein	21	Osteocalcin	BGLAP	P02818	Femoral Neck Osteoporsis	Diagnostic	43.5 ng/mL	Adult: >=18 yrs old	Female	Serum	Atalay, S., Elci, A., Kayadibi, H., Onder, C. B. & Aka, N. Diagnostic utility of osteocalcin, undercarboxylated osteocalcin, and alkaline phosphatase for osteoporosis in premenopausal and postmenopausal women. Ann Lab Med 32, 23-30 (2012).
+Protein	21	Osteocalcin	BGLAP	P02818	L1 4 Spine Osteoporosis	Diagnostic	43.5 ng/mL	Adult: >=18 yrs old	Female	Serum	Atalay, S., Elci, A., Kayadibi, H., Onder, C. B. & Aka, N. Diagnostic utility of osteocalcin, undercarboxylated osteocalcin, and alkaline phosphatase for osteoporosis in premenopausal and postmenopausal women. Ann Lab Med 32, 23-30 (2012).
+Protein	21	Osteocalcin	BGLAP	P02818	L2 4 Spine Osteoporosis	Diagnostic	25.8 ng/mL	Adult: >=18 yrs old	Female	Serum	Atalay, S., Elci, A., Kayadibi, H., Onder, C. B. & Aka, N. Diagnostic utility of osteocalcin, undercarboxylated osteocalcin, and alkaline phosphatase for osteoporosis in premenopausal and postmenopausal women. Ann Lab Med 32, 23-30 (2012).
+Protein	21	Osteocalcin	BGLAP	P02818	Osteoporosis	Diagnostic	>4.65 ng/mL	Adult: >=18 yrs old	Female	Serum	Botella, S., Restituto, P., Monreal, I., Colina, I., Calleja, A. & Varo, N. Traditional and novel bone remodeling markers in premenopausal and postmenopausal women. J Clin Endocrinol Metab 98, E1740-E1748 (2013).
+Protein	21	Osteocalcin	BGLAP	P02818	Normal	Diagnostic	22.5 (18.2-28.5) ng/mL	Adult: >=18 yrs old	Female	Serum	Atalay, S., Elci, A., Kayadibi, H., Onder, C. B. & Aka, N. Diagnostic utility of osteocalcin, undercarboxylated osteocalcin, and alkaline phosphatase for osteoporosis in premenopausal and postmenopausal women. Ann Lab Med 32, 23-30 (2012).
+Protein	21	Osteocalcin	BGLAP	P02818	Normal	Diagnostic	22.5 (18.2-28.5) ng/mL	Adult: >=18 yrs old	Female	Serum	Atalay, S., Elci, A., Kayadibi, H., Onder, C. B. & Aka, N. Diagnostic utility of osteocalcin, undercarboxylated osteocalcin, and alkaline phosphatase for osteoporosis in premenopausal and postmenopausal women. Ann Lab Med 32, 23-30 (2012).
+Protein	21	Osteocalcin	BGLAP	P02818	Normal	Diagnostic	22.5 (18.2-28.5) ng/mL	Adult: >=18 yrs old	Female	Serum	Atalay, S., Elci, A., Kayadibi, H., Onder, C. B. & Aka, N. Diagnostic utility of osteocalcin, undercarboxylated osteocalcin, and alkaline phosphatase for osteoporosis in premenopausal and postmenopausal women. Ann Lab Med 32, 23-30 (2012).
+Protein	21	Osteocalcin	BGLAP	P02818	Normal	Diagnostic	22.5 (18.2-28.5) ng/mL	Adult: >=18 yrs old	Female	Serum	Atalay, S., Elci, A., Kayadibi, H., Onder, C. B. & Aka, N. Diagnostic utility of osteocalcin, undercarboxylated osteocalcin, and alkaline phosphatase for osteoporosis in premenopausal and postmenopausal women. Ann Lab Med 32, 23-30 (2012).
+Protein	22	Undercarboxylated Osteocalcin	BGLAP	P02818	L1 4 Spine Osteoporosis	Diagnostic	2.19 ng/mL	Adult: >=18 yrs old	Female	Serum	Atalay, S., Elci, A., Kayadibi, H., Onder, C. B. & Aka, N. Diagnostic utility of osteocalcin, undercarboxylated osteocalcin, and alkaline phosphatase for osteoporosis in premenopausal and postmenopausal women. Ann Lab Med 32, 23-30 (2012).
+Protein	22	Undercarboxylated Osteocalcin	BGLAP	P02818	L2 4 Spine Osteoporosis	Diagnostic	2.19 ng/mL	Adult: >=18 yrs old	Female	Serum	Atalay, S., Elci, A., Kayadibi, H., Onder, C. B. & Aka, N. Diagnostic utility of osteocalcin, undercarboxylated osteocalcin, and alkaline phosphatase for osteoporosis in premenopausal and postmenopausal women. Ann Lab Med 32, 23-30 (2012).
+Protein	22	Undercarboxylated Osteocalcin	BGLAP	P02818	Normal	Diagnostic	1.31 (0.86-1.75) ng/mL	Adult: >=18 yrs old	Female	Serum	Atalay, S., Elci, A., Kayadibi, H., Onder, C. B. & Aka, N. Diagnostic utility of osteocalcin, undercarboxylated osteocalcin, and alkaline phosphatase for osteoporosis in premenopausal and postmenopausal women. Ann Lab Med 32, 23-30 (2012).
+Protein	22	Undercarboxylated Osteocalcin	BGLAP	P02818	Normal	Diagnostic	1.31 (0.86-1.75) ng/mL	Adult: >=18 yrs old	Female	Serum	Atalay, S., Elci, A., Kayadibi, H., Onder, C. B. & Aka, N. Diagnostic utility of osteocalcin, undercarboxylated osteocalcin, and alkaline phosphatase for osteoporosis in premenopausal and postmenopausal women. Ann Lab Med 32, 23-30 (2012).
+Protein	26	N-terminal pro-B-type Natriuretic peptide		P16860	Congestive Heart Failure	Diagnostic	>450 pg/mL	Adult: >=18 yrs old	Both	Serum	Cleveland clinic: NT-proB-type Natriuretic Peptide (BNP)
+Protein	26	N-terminal pro-B-type Natriuretic peptide		P16860	Congestive Heart Failure	Diagnostic	>900 pg/mL	Adult: >=18 yrs old	Both	Serum	Cleveland clinic: NT-proB-type Natriuretic Peptide (BNP)
+Protein	26	N-terminal pro-B-type Natriuretic peptide		P16860	Normal	Diagnostic	<125 pg/mL	Adult: >=18 yrs old	Both	blood	Cleveland clinic: NT-proB-type Natriuretic Peptide (BNP)
+Protein	26	N-terminal pro-B-type Natriuretic peptide		P16860	Normal	Diagnostic	<450 pg/mL	Adult: >=18 yrs old	Both	blood	Cleveland clinic: NT-proB-type Natriuretic Peptide (BNP)
+Protein	27	Gamma-glutamyltranspeptidase	GGT1	P19440	Liver Disease	Diagnostic	>61 U/L	Adult: >=18 yrs old	Male	blood	Mayo clinic: Gammaglutamyl transferase (GGT) test
+Protein	27	Gamma-glutamyltranspeptidase	GGT1	P19440	Normal	Diagnostic	26.5 U/L	Adult: >=18 yrs old	Male	blood	Mayo clinic: Gammaglutamyl transferase (GGT) test
+Protein	27	Gamma-glutamyltranspeptidase	GGT1	P19440	Liver Disease	Diagnostic	>36 U/L	Adult: >=18 yrs old	Female	blood	Mayo clinic: Gammaglutamyl transferase (GGT) test
+Protein	27	Gamma-glutamyltranspeptidase	GGT1	P19440	Normal	Diagnostic	17 U/L	Adult: >=18 yrs old	Female	blood	Mayo clinic: Gammaglutamyl transferase (GGT) test
+Protein	28	Antimitochondrial antibodies		P01860	Primary Biliary Cirrhosis	Diagnostic	>0.2 A	Adult: >=18 yrs old	Both	Serum	Dahnrich, C., Pares, A., Caballeria, L., Rosemann, A., Schlumberger, W., Probst, C., Mytilinaiou, M., Bogdanos, D., Vergani, D., Stocker, W. & Komorowski, L. New ELISA for detecting primary biliary cirrhosis-specific antimitochondrial antibodies. Clin Chem 55, 978-985 (2009).
+Protein	28	Antimitochondrial antibodies		P01860	Primary Biliary Cirrhosis	Diagnostic	Positive	Adult: >=18 yrs old	Both	blood	University of San Francisco: Antimitochondrial antibody
+Protein	28	Antimitochondrial antibodies		P01860	Normal	Diagnostic	Negative	Adult: >=18 yrs old	Both	blood	University of San Francisco: Antimitochondrial antibody
+Protein	29	Antineutrophil cytoplasmic antibodies		P01860	Systemic Necrotising Vasculitis	Diagnostic	>1/10	All	Both	Serum	Harris, A., Chang, G., Vadas, M. & Gillis, D. ELISA is the superior method for detecting antineutrophil cytoplasmic antibodies in the diagnosis of systemic necrotising vasculitis. J Clin Pathol 52, 670-676 (1999).
+Protein	36	Anti-Streptolysin antibodies		P01860	Streptococcus Infection	Diagnostic	>200 IU/mL	Adult: >=18 yrs old	Both	blood	Healthline: Antistreptolysin O titler
+Protein	36	Anti-Streptolysin antibodies		P01860	Normal	Diagnostic	<200 IU/mL	Adult: >=18 yrs old	Both	blood	Healthline: Antistreptolysin O titler
+Protein	37	Anti-DNase B Antibodies	DNASE1L3		Streptococcus Infection	Diagnostic	>85 U/mL	Adult: >=18 yrs old	Both	blood	Medline plus: ANti-DNase B blood test
+Protein	37	Anti-DNase B Antibodies	DNASE1L3		Normal	Diagnostic	<85 U/mL	Adult: >=18 yrs old	Both	blood	Medline plus: ANti-DNase B blood test
+Protein	39	Anti-cyclic Citrullinated Peptide		P01860	Rheumatoid Arthritis	Diagnostic	>20 U/mL	Adult: >=18 yrs old	Both	blood	Hospital for Special Surgery: Understanding Rheumatoid Arthritis Lab Tests and Results
+Protein	39	Anti-cyclic Citrullinated Peptide		P01860	Normal	Diagnostic	>20 U/mL	Adult: >=18 yrs old	Both	blood	Hospital for Special Surgery: Understanding Rheumatoid Arthritis Lab Tests and Results
+Protein	40	C-terminal telopeptide			Osteoporosis	Diagnostic	>0.25 ng/mL	Adult: >=18 yrs old	Female	Serum	Botella, S., Restituto, P., Monreal, I., Colina, I., Calleja, A. & Varo, N. Traditional and novel bone remodeling markers in premenopausal and postmenopausal women. J Clin Endocrinol Metab 98, E1740-E1748 (2013).
+Protein	40	C-terminal telopeptide			Osteoporosis	Diagnostic	>=346 ug/mol	Adult: >=18 yrs old	Female	Urine	de la Piedra, C., Traba, M. L., Dominguez Cabrera, C. & Sosa Henriquez, M. New biochemical markers of bone resorption in the study of postmenopausal osteoporosis. Clin Chim Acta 265, 225-234 (1997).
+Protein	40	C-terminal telopeptide			Normal	Diagnostic	119 (53-185) ug/mol creatine	Adult: >=18 yrs old	Female	Urine	de la Piedra, C., Traba, M. L., Dominguez Cabrera, C. & Sosa Henriquez, M. New biochemical markers of bone resorption in the study of postmenopausal osteoporosis. Clin Chim Acta 265, 225-234 (1997).
+Protein	40	C-terminal telopeptide			Normal	Diagnostic	0.4 (0.41-0.39) ng/mL	Adult: >=18 yrs old	Female	Serum	Botella, S., Restituto, P., Monreal, I., Colina, I., Calleja, A. & Varo, N. Traditional and novel bone remodeling markers in premenopausal and postmenopausal women. J Clin Endocrinol Metab 98, E1740-E1748 (2013).
+Protein	41	N-terminal propeptide of type 1 procollagen		P02452	Osteoporosis	Diagnostic	>48.18 ng/mL	Adult: >=18 yrs old	Female	Serum	Botella, S., Restituto, P., Monreal, I., Colina, I., Calleja, A. & Varo, N. Traditional and novel bone remodeling markers in premenopausal and postmenopausal women. J Clin Endocrinol Metab 98, E1740-E1748 (2013).
+Protein	41	N-terminal propeptide of type 1 procollagen		P02452	Normal	Diagnostic	52.6 (50.7-54.5) ng/mL	Adult: >=18 yrs old	Female	Serum	Botella, S., Restituto, P., Monreal, I., Colina, I., Calleja, A. & Varo, N. Traditional and novel bone remodeling markers in premenopausal and postmenopausal women. J Clin Endocrinol Metab 98, E1740-E1748 (2013).
+Protein	43	N-terminal telopeptide	COL9A1		Osteoporosis	Diagnostic	>83 nmol BCE/mmol creatine	Adult: >=18 yrs old	Male	urine	Mayo clinic: NTX-telopeptide Urine
+Protein	43	N-terminal telopeptide	COL9A1		Normal	Diagnostic	52 (21-83) nmol BCE/mmol creatine	Adult: >=18 yrs old	Male	urine	Mayo clinic: NTX-telopeptide Urine
+Protein	43	N-terminal telopeptide	COL9A1		Osteoporosis	Diagnostic	>94 nmol BCE/mmol creatine	Adult: >=18 yrs old	Female	urine	Mayo clinic: NTX-telopeptide Urine
+Protein	43	N-terminal telopeptide	COL9A1		Normal	Diagnostic	55.5 (17-94) nmol BCE/mmol creatine	Adult: >=18 yrs old	Female	urine	Mayo clinic: NTX-telopeptide Urine
+Protein	43	N-terminal telopeptide	COL9A1		Osteoporosis	Diagnostic	>124 nmol BCE/mmol creatine	Adult: >=18 yrs old	Female	urine	Mayo clinic: NTX-telopeptide Urine
+Protein	43	N-terminal telopeptide	COL9A1		Normal	Diagnostic	75 (26-124) nmol BCE/mmol creatine	Adult: >=18 yrs old	Female	urine	Mayo clinic: NTX-telopeptide Urine
+Protein	43	N-terminal telopeptide	COL9A1		Osteomalacia	Diagnostic	>124.5 nmol BCE/mmol creatine	Adult: >=18 yrs old	Male	urine	Mayo clinic: NTX-telopeptide Urine
+Protein	43	N-terminal telopeptide	COL9A1		Normal	Diagnostic	52 (21-83) nmol BCE/mmol creatine	Adult: >=18 yrs old	Male	urine	Mayo clinic: NTX-telopeptide Urine
+Protein	43	N-terminal telopeptide	COL9A1		Osteomalacia	Diagnostic	>141 nmol BCE/mmol creatine	Adult: >=18 yrs old	Female	urine	Mayo clinic: NTX-telopeptide Urine
+Protein	43	N-terminal telopeptide	COL9A1		Normal	Diagnostic	55.5 (17-94) nmol BCE/mmol creatine	Adult: >=18 yrs old	Female	urine	Mayo clinic: NTX-telopeptide Urine
+Protein	43	N-terminal telopeptide	COL9A1		Osteomalacia	Diagnostic	>186 nmol BCE/mmol creatine	Adult: >=18 yrs old	Female	urine	Mayo clinic: NTX-telopeptide Urine
+Protein	43	N-terminal telopeptide	COL9A1		Normal	Diagnostic	75 (26-124) nmol BCE/mmol creatine	Adult: >=18 yrs old	Female	urine	Mayo clinic: NTX-telopeptide Urine
+Protein	44	Anticardiolipin antibody		P01860	Normal	Diagnostic	<12 RU/mL	Adult: >=18 yrs old	Both	Serum	Deng, X. & Liu, X. Reevaluation of predictive value of ACL and anti-beta2GP1 antibody for thrombosis in patients with systemic lupus erythematosus: from a perspective of a practical world. Rheumatol Int 32, 3881-3886 (2012).
+Protein	45	Anti-beta2 glycoprotein1		P01860	Normal	Diagnostic	<20 RU/mL	Adult: >=18 yrs old	Both	Serum	Deng, X. & Liu, X. Reevaluation of predictive value of ACL and anti-beta2GP1 antibody for thrombosis in patients with systemic lupus erythematosus: from a perspective of a practical world. Rheumatol Int 32, 3881-3886 (2012).
+Protein	46	Muellerian-inhibiting factor	AMH	P03971	Polycystic Ovary Syndrome	Diagnostic	>3.8 ng/mL	Adult: >=18 yrs old	Female	Serum	Sahmay, S., Aydin, Y., Oncul, M. & Senturk, L. M. Diagnosis of Polycystic Ovary Syndrome: AMH in combination with clinical symptoms. J Assist Reprod Genet 31, 213-220 (2014).
+Protein	46	Muellerian-inhibiting factor	AMH	P03971	Normal	Diagnostic	2.6 (0.3-4.9) ng/mL	Adult: >=18 yrs old	Female	Serum	Sahmay, S., Aydin, Y., Oncul, M. & Senturk, L. M. Diagnosis of Polycystic Ovary Syndrome: AMH in combination with clinical symptoms. J Assist Reprod Genet 31, 213-220 (2014).
+Protein	46	Muellerian-inhibiting factor	AMH	P03971	Controlled Ovarian Stimulation	Diagnostic	<1.08 ng/mL	Adult: >=18 yrs old	Female	serum	Pubmed_ID: 31181872
+Protein	46	Muellerian-inhibiting factor	AMH	P03971	Normal	Diagnostic	2.6 (0.3-4.9) ng/mL	Adult: >=18 yrs old	Female	serum	Sahmay, S., Aydin, Y., Oncul, M. & Senturk, L. M. Diagnosis of Polycystic Ovary Syndrome: AMH in combination with clinical symptoms. J Assist Reprod Genet 31, 213-220 (2014).
+Protein	47	Proinsulin C-peptide		P01308	Diabetes Mellitus Type 1	Diagnostic	<0.5 ng/mL	Adult: >=18 yrs old	Both	blood	Healthlink BC: C-peptide
+Protein	47	Proinsulin C-peptide		P01308	Normal	Diagnostic	1.25 (0.5-2) ng/mL	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: C-Peptide (Blood)
+Protein	48	Perineuclear Antineutrophil Cytoplasmic Antibodies		P01860	Ulcerative Colitis	Diagnostic	Positive	Adult: >=18 yrs old	Both	Serum	Reese, G. E., Constantinides, V. A., Simillis, C., Darzi, A. W., Orchard, T. R., Fazio, V. W. & Tekkis, P. P. Diagnostic precision of anti-Saccharomyces cerevisiae antibodies and perinuclear antineutrophil cytoplasmic antibodies in inflammatory bowel disease. Am J Gastroenterol 101, 2410-2422 (2006).
+Protein	48	Perineuclear Antineutrophil Cytoplasmic Antibodies		P01860	Normal	Diagnostic	Negative	Adult: >=18 yrs old	Both	Serum	Reese, G. E., Constantinides, V. A., Simillis, C., Darzi, A. W., Orchard, T. R., Fazio, V. W. & Tekkis, P. P. Diagnostic precision of anti-Saccharomyces cerevisiae antibodies and perinuclear antineutrophil cytoplasmic antibodies in inflammatory bowel disease. Am J Gastroenterol 101, 2410-2422 (2006).
+Protein	50	Anti-Dengue virus antibody		P01860	Dengue Fever	Diagnostic	3	Adult: >=18 yrs old	Both	Serum	Marrero-Santos, K. M., Beltran, M., Carrion-Lebron, J., Sanchez-Vegas, C., Hamer, D. H., Barnett, E. D., Santiago, L. M. & Hunsperger, E. A. Optimization of the cutoff value for a commercial anti-dengue virus IgG immunoassay. Clin Vaccine Immunol 20, 358-362 (2013).
+Protein	50	Anti-Dengue virus antibody		P01860	Normal	Diagnostic	<3	Adult: >=18 yrs old	Both	Serum	Marrero-Santos, K. M., Beltran, M., Carrion-Lebron, J., Sanchez-Vegas, C., Hamer, D. H., Barnett, E. D., Santiago, L. M. & Hunsperger, E. A. Optimization of the cutoff value for a commercial anti-dengue virus IgG immunoassay. Clin Vaccine Immunol 20, 358-362 (2013).
+Protein	51	Vascular Endothelial Growth Factor	VEGFC	P49767	Breast Cancer	Diagnostic	>191.75 pg/mL	Adult: >=18 yrs old	Female	Serum	Lawicki, S., Bedkowska, G. E. & Szmitkowski, M. VEGF, M-CSF and CA 15-3 as a new tumor marker panel in breast malignancies: a multivariate analysis with ROC curve. Growth Factors 31, 98-105 (2013).
+Protein	51	Vascular Endothelial Growth Factor	VEGFC	P49767	Acute Kidney Injury	Diagnostic	>0.64 ng/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	51	Vascular Endothelial Growth Factor	VEGFC	P49767	Normal	Diagnostic	<=96.2 pg/mL	Adult: >=18 yrs old	Female	Serum	Mayo clinic: VEGF
+Protein	51	Vascular Endothelial Growth Factor	VEGFC	P49767	Normal	Diagnostic	<0.64 ng/mg creatine	Adult: >=18 yrs old	Female	Serum	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	52	Macrophage colony-stimulating factor 1	CSF1	P09603	Breast Cancer	Diagnostic	>474.245 pg/mL	Adult: >=18 yrs old	Female	Serum	Lawicki, S., Bedkowska, G. E. & Szmitkowski, M. VEGF, M-CSF and CA 15-3 as a new tumor marker panel in breast malignancies: a multivariate analysis with ROC curve. Growth Factors 31, 98-105 (2013).
+Protein	52	Macrophage colony-stimulating factor 1	CSF1	P09603	Normal	Diagnostic	298.55 (162.15-696) pg/mL	Adult: >=18 yrs old	Female	Serum	Lawicki, S., Bedkowska, G. E. & Szmitkowski, M. VEGF, M-CSF and CA 15-3 as a new tumor marker panel in breast malignancies: a multivariate analysis with ROC curve. Growth Factors 31, 98-105 (2013).
+Protein	53	Amylase		P04745	Acute Pancreatitis	Diagnostic	>208 U/L	Adult: >=18 yrs old	Both	Serum	Treacy, J., Williams, A., Bais, R., Willson, K., Worthley, C., Reece, J., Bessell, J. & Thomas, D. Evaluation of amylase and lipase in the diagnosis of acute pancreatitis. ANZ J Surg 71, 577-582 (2001).
+Protein	53	Amylase		P04745	Normal	Diagnostic	70 (30-110) U/L	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Amylase (Blood)
+Protein	54	Lipoprotein lipase	LPL	P06858	Acute Pancreatitis	Diagnostic	>176 U/L	Adult: >=18 yrs old	Both	Serum	Treacy, J., Williams, A., Bais, R., Willson, K., Worthley, C., Reece, J., Bessell, J. & Thomas, D. Evaluation of amylase and lipase in the diagnosis of acute pancreatitis. ANZ J Surg 71, 577-582 (2001).
+Protein	54	Lipoprotein lipase	LPL	P06858	Normal	Diagnostic	<176 U/L	Adult: >=18 yrs old	Both	Serum	Treacy, J., Williams, A., Bais, R., Willson, K., Worthley, C., Reece, J., Bessell, J. & Thomas, D. Evaluation of amylase and lipase in the diagnosis of acute pancreatitis. ANZ J Surg 71, 577-582 (2001).
+Protein	55	Antineutrophil cytoplasmic antibodies against proteinase 3		P01860	Ulcerative Colitis	Diagnostic	>20 CU	Adult: >=18 yrs old	Both	Serum	Mahler, M., Bogdanos, D. P., Pavlidis, P., Fritzler, M. J., Csernok, E., Damoiseaux, J., Bentow, C., Shums, Z., Forbes, A. & Norman, G. L. PR3-ANCA: a promising biomarker for ulcerative colitis with extensive disease. Clin Chim Acta 424, 267-273 (2013).
+Protein	55	Antineutrophil cytoplasmic antibodies against proteinase 3		P01860	Normal	Diagnostic	<20 CU	Adult: >=18 yrs old	Both	Serum	Mahler, M., Bogdanos, D. P., Pavlidis, P., Fritzler, M. J., Csernok, E., Damoiseaux, J., Bentow, C., Shums, Z., Forbes, A. & Norman, G. L. PR3-ANCA: a promising biomarker for ulcerative colitis with extensive disease. Clin Chim Acta 424, 267-273 (2013).
+Protein	57	Calprotectin	S100A8	P05109	Inflammatory Bowel Disease	Diagnostic	>50 ug/g	Adult: >=18 yrs old	Both	Fecal	Kennedy, N. A., Clark, A., Walkden, A., Chang, J. C., Fasci-Spurio, F., Muscat, M., Gordon, B. W., Kingstone, K., Satsangi, J., Arnott, I. D. & Lees, C. W. Clinical utility and diagnostic accuracy of faecal calprotectin for IBD at first presentation to gastroenterology services in adults aged 16-50 years. J Crohns Colitis 9, 41-49 (2015).
+Protein	57	Calprotectin	S100A8	P05109	Normal	Diagnostic	<50 ug/g	Adult: >=18 yrs old	Both	Fecal	Kennedy, N. A., Clark, A., Walkden, A., Chang, J. C., Fasci-Spurio, F., Muscat, M., Gordon, B. W., Kingstone, K., Satsangi, J., Arnott, I. D. & Lees, C. W. Clinical utility and diagnostic accuracy of faecal calprotectin for IBD at first presentation to gastroenterology services in adults aged 16-50 years. J Crohns Colitis 9, 41-49 (2015).
+Protein	58	Human Epididymis protein 4		Q14508	Type 1 Epithilial Ovarian Cancer	Diagnostic	>93 pM	Adult: >=18 yrs old	Female	Serum	Kristjansdottir, B., Levan, K., Partheen, K. & Sundfeldt, K. Diagnostic performance of the biomarkers HE4 and CA125 in type I and type II epithelial ovarian cancer. Gynecol Oncol 131, 52-58 (2013).
+Protein	58	Human Epididymis protein 4		Q14508	Type 2 Epithilial Ovarian Cancer	Diagnostic	>354 pM	Adult: >=18 yrs old	Female	Serum	Kristjansdottir, B., Levan, K., Partheen, K. & Sundfeldt, K. Diagnostic performance of the biomarkers HE4 and CA125 in type I and type II epithelial ovarian cancer. Gynecol Oncol 131, 52-58 (2013).
+Protein	58	Human Epididymis protein 4		Q14508	Normal	Diagnostic	<93 pM	Adult: >=18 yrs old	Female	Serum	Kristjansdottir, B., Levan, K., Partheen, K. & Sundfeldt, K. Diagnostic performance of the biomarkers HE4 and CA125 in type I and type II epithelial ovarian cancer. Gynecol Oncol 131, 52-58 (2013).
+Protein	58	Human Epididymis protein 4		Q14508	Normal	Diagnostic	<354 pM	Adult: >=18 yrs old	Female	Serum	Kristjansdottir, B., Levan, K., Partheen, K. & Sundfeldt, K. Diagnostic performance of the biomarkers HE4 and CA125 in type I and type II epithelial ovarian cancer. Gynecol Oncol 131, 52-58 (2013).
+Protein	59	Carbohydrate Antigen 125		Q8WXI7	Type 1 Epithilial Ovarian Cancer	Diagnostic	>53 U/mL	Adult: >=18 yrs old	Female	Serum	Kristjansdottir, B., Levan, K., Partheen, K. & Sundfeldt, K. Diagnostic performance of the biomarkers HE4 and CA125 in type I and type II epithelial ovarian cancer. Gynecol Oncol 131, 52-58 (2013).
+Protein	59	Carbohydrate Antigen 125		Q8WXI7	Type 2 Epithilial Ovarian Cancer	Diagnostic	>395 U/mL	Adult: >=18 yrs old	Female	Serum	Kristjansdottir, B., Levan, K., Partheen, K. & Sundfeldt, K. Diagnostic performance of the biomarkers HE4 and CA125 in type I and type II epithelial ovarian cancer. Gynecol Oncol 131, 52-58 (2013).
+Protein	59	Carbohydrate Antigen 125		Q8WXI7	Breast Cancer	Diagnostic	> 11 U/mL U/mL	Adult: >=18 yrs old	Female	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	59	Carbohydrate Antigen 125		Q8WXI7	Normal	Diagnostic	< 11 U/mL U/mL	Adult: >=18 yrs old	Female	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	60	Chromogranin-A	CHGA	P10645	Bone Metastases	Diagnostic	>19 U/L	Adult: >=18 yrs old	Both	Serum	Modlin, I. M., Aslanian, H., Bodei, L., Drozdov, I. & Kidd, M. A PCR blood test outperforms chromogranin A in carcinoid detection and is unaffected by proton pump inhibitors. Endocr Connect 3, 215-223 (2014).
+Protein	60	Chromogranin-A	CHGA	P10645	Enterochromaffin Like Cell Hyperplasia	Diagnostic	>89.1 ng/mL	Adult: >=18 yrs old	Both	serum	Nicolaou, A., Thomas, D., Alexandraki, K. I., Sougioultzis, S., Tsolakis, A. V. & Kaltsas, G. Predictive value of gastrin levels for the diagnosis of gastric enterochromaffin-like cell hyperplasia in patients with Hashimoto's thyroiditis. Neuroendocrinology 99, 118-122 (2014).
+Protein	60	Chromogranin-A	CHGA	P10645	Normal	Diagnostic	<19 U/L	Adult: >=18 yrs old	Both	Serum	Modlin, I. M., Aslanian, H., Bodei, L., Drozdov, I. & Kidd, M. A PCR blood test outperforms chromogranin A in carcinoid detection and is unaffected by proton pump inhibitors. Endocr Connect 3, 215-223 (2014).
+Protein	60	Chromogranin-A	CHGA	P10645	Normal	Diagnostic	58.75 (19.4-98.1) ng/mL	Adult: >=18 yrs old	Both	Serum	Nicolaou, A., Thomas, D., Alexandraki, K. I., Sougioultzis, S., Tsolakis, A. V. & Kaltsas, G. Predictive value of gastrin levels for the diagnosis of gastric enterochromaffin-like cell hyperplasia in patients with Hashimoto's thyroiditis. Neuroendocrinology 99, 118-122 (2014).
+Protein	61	Epstein-Barr virus capsid antigen antibody		P01860	Infectious mononucleosis	Diagnostic	>40.5 U/mL	Children: 1-13 yrs old	Both	Serum	Feng, Z., Li, Z., Sui, B., Xu, G. & Xia, T. Serological diagnosis of infectious mononucleosis by chemiluminescent immunoassay using capsid antigen p18 of Epstein-Barr virus. Clin Chim Acta 354, 77-82 (2005).
+Protein	61	Epstein-Barr virus capsid antigen antibody		P01860	Normal	Diagnostic	<40.5 U/mL	Children: 1-13 yrs old	Both	Serum	Feng, Z., Li, Z., Sui, B., Xu, G. & Xia, T. Serological diagnosis of infectious mononucleosis by chemiluminescent immunoassay using capsid antigen p18 of Epstein-Barr virus. Clin Chim Acta 354, 77-82 (2005).
+Protein	62	Ceruloplasmin	CP	P00450	Wilson's Disease	Diagnostic	<19	Adult: >=18 yrs old	Both	Serum	Merle, U., Eisenbach, C., Weiss, K. H., Tuma, S. & Stremmel, W. Serum ceruloplasmin oxidase activity is a sensitive and highly specific diagnostic marker for Wilson's disease. J Hepatol 51, 925-930 (2009).
+Protein	62	Ceruloplasmin	CP	P00450	Normal	Diagnostic	27.5 (20-35) mg/dL	Adult: >=18 yrs old	Both	Serum	University of Rochester Medical Center: Ceruloplasmin blood
+Protein	63	Anti-gliadin antibody IgA		P01860	Celiac Disease	Diagnostic	>30 U	Adult: >=18 yrs old	Both	blood	Mayo clinic: Gliadin (Deamidated) Antibody
+Protein	63	Anti-gliadin antibody IgA		P01860	Normal	Diagnostic	<20 U	Adult: >=18 yrs old	Both	blood	Mayo clinic: Gliadin (Deamidated) Antibody
+Protein	67	P-Selectin	SELP	P16109	Normal	Diagnostic	<80 ng/mL	Adult: >=18 yrs old	Both	Serum	Fei, Y., Zong, G. Q., Chen, J. & Liu, R. M. Evaluation of the Value of d-Dimer, P-Selectin, and Platelet Count for Prediction of Portal Vein Thrombosis After Devascularization. Clin Appl Thromb Hemost ,  (2015).
+Protein	68	Sex hormone-binding globulin	SHBG	P04278	Polycystic Ovary Syndrome	Diagnostic	<18 nmol/L	Adult: >=18 yrs old	Female	blood	Healthline: Low SHBG level
+Protein	68	Sex hormone-binding globulin	SHBG	P04278	Normal	Diagnostic	81 nmol/L	Adult: >=18 yrs old	Female	blood	Healthline: Low SHBG level
+Protein	69	Des-gamma-carboxy prothrombin		P00734	Hepatocellular Carcinoma	Diagnostic	>86 mAU/mL	Adult: >=18 yrs old	Both	Serum	Song, P., Feng, X., Inagaki, Y., Song, T., Zhang, K., Wang, Z., Zheng, S., Ma, K., Li, Q., Kong, D., Wu, Q., Zhang, T., Zhao, X., Hasegawa, K., Sugawara, Y., Kokudo, N. & Tang, W. Clinical utility of simultaneous measurement of alpha-fetoprotein and des-gamma-carboxy prothrombin for diagnosis of patients with hepatocellular carcinoma in China: A multi-center case-controlled study of 1,153 subjects. Biosci Trends 8, 266-273 (2014).
+Protein	69	Des-gamma-carboxy prothrombin		P00734	Normal	Diagnostic	29.91 (<10-104.97) mAU/mL	Adult: >=18 yrs old	Both	Serum	Song, P., Feng, X., Inagaki, Y., Song, T., Zhang, K., Wang, Z., Zheng, S., Ma, K., Li, Q., Kong, D., Wu, Q., Zhang, T., Zhao, X., Hasegawa, K., Sugawara, Y., Kokudo, N. & Tang, W. Clinical utility of simultaneous measurement of alpha-fetoprotein and des-gamma-carboxy prothrombin for diagnosis of patients with hepatocellular carcinoma in China: A multi-center case-controlled study of 1,153 subjects. Biosci Trends 8, 266-273 (2014).
+Protein	70	Hepatitis A virus cellular receptor 1	HAVCR1	Q96D42	Acute Kidney Injury	Diagnostic	>1.73 ng/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	70	Hepatitis A virus cellular receptor 1	HAVCR1	Q96D42	Normal	Diagnostic	<1.73 ng/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	71	Neutrophil Gelatinase associated lipocalin	LCN2	P80188	Acute Kidney Injury	Diagnostic	>82.7 ng/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	71	Neutrophil Gelatinase associated lipocalin	LCN2	P80188	Normal	Diagnostic	<82.7 ng/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	72	Interleukin-18	IL18	Q14116	Acute Kidney Injury	Diagnostic	>2.74 pg/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	72	Interleukin-18	IL18	Q14116	Normal	Diagnostic	<2.74 pg/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	73	Hepatocyte growth factor	HGF	P14210	Acute Kidney Injury	Diagnostic	>0.37 ng/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	73	Hepatocyte growth factor	HGF	P14210	Normal	Diagnostic	<0.37 ng/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	74	Cystatin-C	CST3	P01034	Acute Kidney Injury	Diagnostic	>0.12 ug/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	74	Cystatin-C	CST3	P01034	Normal	Diagnostic	<0.12 ug/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	75	N-acetyl-beta-D-glucosaminidase	OGA	O60502	Acute Kidney Injury	Diagnostic	>0.015 u/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	75	N-acetyl-beta-D-glucosaminidase	OGA	O60502	Normal	Diagnostic	<0.015 U/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	76	Chemokine interferon inducible protein 10		P02778	Acute Kidney Injury	Diagnostic	>0.62 ng/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	76	Chemokine interferon inducible protein 10		P02778	Normal	Diagnostic	<0.62 ng/mg	Adult: >=18 yrs old	Both	Urine	Vaidya, V. S., Waikar, S. S., Ferguson, M. A., Collings, F. B., Sunderland, K., Gioules, C., Bradwin, G., Matsouaka, R., Betensky, R. A., Curhan, G. C. & Bonventre, J. V. Urinary biomarkers for sensitive and specific detection of acute kidney injury in humans. Clin Transl Sci 1, 200-208 (2008).
+Protein	79	Fibronectin	FN1	P02751	Preterm Birth	Diagnostic	Positive	Adult: >=18 yrs old	Female	cervical secretion	Mayo clinic: Fetal fibronectin test
+Protein	79	Fibronectin	FN1	P02751	Normal	Diagnostic	Negative	Adult: >=18 yrs old	Female	cervical secretion	Mayo clinic: Fetal fibronectin test
+Protein	80	Nuclear Ribonucleoprotein H1 antibodies		P01860	Sjogren Syndrome	Diagnostic	>1.9 peak*area	Adult: >=18 yrs old	Both	serum	Van den Bergh, K., Hooijkaas, H., Blockmans, D., Westhovens, R., Op De Beeck, K., Verschueren, P., Dufour, D., van de Merwe, J. P., Fijak, M., Klug, J., Michiels, G., Devogelaere, B., De Smedt, H., Derua, R., Waelkens, E., Blanckaert, N. & Bossuyt, X. Heterogeneous nuclear ribonucleoprotein h1, a novel nuclear autoantigen. Clin Chem 55, 946-954 (2009).
+Protein	80	Nuclear Ribonucleoprotein H1 antibodies		P01860	Normal	Diagnostic	<1.9 peak*area	Adult: >=18 yrs old	Both	serum	Van den Bergh, K., Hooijkaas, H., Blockmans, D., Westhovens, R., Op De Beeck, K., Verschueren, P., Dufour, D., van de Merwe, J. P., Fijak, M., Klug, J., Michiels, G., Devogelaere, B., De Smedt, H., Derua, R., Waelkens, E., Blanckaert, N. & Bossuyt, X. Heterogeneous nuclear ribonucleoprotein h1, a novel nuclear autoantigen. Clin Chem 55, 946-954 (2009).
+Protein	81	Anti-ribosomal P antibodies		P01860	Systemic Lupus Erythematosus	Diagnostic	>4.45 U/mL	Adult: >=18 yrs old	Both	serum	Carmona-Fernandes, D., Santos, M. J., Canhao, H. & Fonseca, J. E. Anti-ribosomal P protein IgG autoantibodies in patients with systemic lupus erythematosus: diagnostic performance and clinical profile. BMC Med 11, 98 (2013).
+Protein	81	Anti-ribosomal P antibodies		P01860	Normal	Diagnostic	<4.45 U/mL	Adult: >=18 yrs old	Both	serum	Carmona-Fernandes, D., Santos, M. J., Canhao, H. & Fonseca, J. E. Anti-ribosomal P protein IgG autoantibodies in patients with systemic lupus erythematosus: diagnostic performance and clinical profile. BMC Med 11, 98 (2013).
+Protein	82	Anti-Smith Antibodies		P01860	Systemic Lupus Erythematosus	Diagnostic	>3.4 U/mL	Adult: >=18 yrs old	Both	serum	Carmona-Fernandes, D., Santos, M. J., Canhao, H. & Fonseca, J. E. Anti-ribosomal P protein IgG autoantibodies in patients with systemic lupus erythematosus: diagnostic performance and clinical profile. BMC Med 11, 98 (2013).
+Protein	82	Anti-Smith Antibodies		P01860	Normal	Diagnostic	<3.4 U/mL	Adult: >=18 yrs old	Both	serum	Carmona-Fernandes, D., Santos, M. J., Canhao, H. & Fonseca, J. E. Anti-ribosomal P protein IgG autoantibodies in patients with systemic lupus erythematosus: diagnostic performance and clinical profile. BMC Med 11, 98 (2013).
+Protein	83	Anti-double stranded DNA antibodies		P01860	Systemic Lupus Erythematosus	Diagnostic	>15 U/mL	Adult: >=18 yrs old	Both	serum	Carmona-Fernandes, D., Santos, M. J., Canhao, H. & Fonseca, J. E. Anti-ribosomal P protein IgG autoantibodies in patients with systemic lupus erythematosus: diagnostic performance and clinical profile. BMC Med 11, 98 (2013).
+Protein	83	Anti-double stranded DNA antibodies		P01860	Normal	Diagnostic	<15 U/mL	Adult: >=18 yrs old	both	serum	Carmona-Fernandes, D., Santos, M. J., Canhao, H. & Fonseca, J. E. Anti-ribosomal P protein IgG autoantibodies in patients with systemic lupus erythematosus: diagnostic performance and clinical profile. BMC Med 11, 98 (2013).
+Protein	84	Hemoglobin subunit beta	HBB	P68871	Diabetes Mellitus Type 2	Diagnostic	>5.52 %	Adult: >=18 yrs old	Both	serum	Herdzik, E., Safranow, K. & Ciechanowski, K. Diagnostic value of fasting capillary glucose, fructosamine and glycosylated haemoglobin in detecting diabetes and other glucose tolerance abnormalities compared to oral glucose tolerance test. Acta Diabetol 39, 15-22 (2002).
+Protein	84	Hemoglobin subunit beta	HBB	P68871	Normal	Diagnostic	4.49 (3.93-5.05) %	Adult: >=18 yrs old	Both	blood	Herdzik, E., Safranow, K. & Ciechanowski, K. Diagnostic value of fasting capillary glucose, fructosamine and glycosylated haemoglobin in detecting diabetes and other glucose tolerance abnormalities compared to oral glucose tolerance test. Acta Diabetol 39, 15-22 (2002).
+Protein	87	Glucose-6-phosphate 1-dehydrogenase	G6PD	P11413	Glucose 6 Phosphate Dehydrogenase Deficiency	Diagnostic	<2.35 U/g Hb	Infant: 1 wk-2 yrs old	Male	serum	Miao, J. K., Chen, Q. X., Bao, L. M., Huang, Y., Zhang, J., Wan, K. X., Yi, J., Wang, S. Y., Zou, L. & Li, T. Y. Determination of optimal cutoff value to accurately identify glucose-6-phosphate dehydrogenase-deficient heterozygous female neonates. Clin Chim Acta 424, 131-135 (2013).
+Protein	87	Glucose-6-phosphate 1-dehydrogenase	G6PD	P11413	Glucose 6 Phosphate Dehydrogenase Deficiency	Diagnostic	<2.55 U/g Hb	Infant: 1 wk-2 yrs old	Female	serum	Miao, J. K., Chen, Q. X., Bao, L. M., Huang, Y., Zhang, J., Wan, K. X., Yi, J., Wang, S. Y., Zou, L. & Li, T. Y. Determination of optimal cutoff value to accurately identify glucose-6-phosphate dehydrogenase-deficient heterozygous female neonates. Clin Chim Acta 424, 131-135 (2013).
+Protein	87	Glucose-6-phosphate 1-dehydrogenase	G6PD	P11413	Normal	Diagnostic	11.1 (8.8-13.4) U/g	Adult: >=18 yrs old	Both	blood	Mayo clinic: Glucose-6-Phosphate Dehydrogenase (G-6-PD)
+Protein	87	Glucose-6-phosphate 1-dehydrogenase	G6PD	P11413	Normal	Diagnostic	11.1 (8.8-13.4) U/g	Adult: >=18 yrs old	Both	blood	Mayo clinic: Glucose-6-Phosphate Dehydrogenase (G-6-PD)
+Protein	88	Gastrin	GAST	P01350	Enterochromaffin Like Cell Hyperplasia	Diagnostic	>89.5 ng/mL	Adult: >=18 yrs old	Both	serum	Nicolaou, A., Thomas, D., Alexandraki, K. I., Sougioultzis, S., Tsolakis, A. V. & Kaltsas, G. Predictive value of gastrin levels for the diagnosis of gastric enterochromaffin-like cell hyperplasia in patients with Hashimoto's thyroiditis. Neuroendocrinology 99, 118-122 (2014).
+Protein	88	Gastrin	GAST	P01350	Normal	Diagnostic	<108 ng/mL	Adult: >=18 yrs old	Both	blood	Nicolaou, A., Thomas, D., Alexandraki, K. I., Sougioultzis, S., Tsolakis, A. V. & Kaltsas, G. Predictive value of gastrin levels for the diagnosis of gastric enterochromaffin-like cell hyperplasia in patients with Hashimoto's thyroiditis. Neuroendocrinology 99, 118-122 (2014).
+Protein	89	Acetylcholinesterase	ACHE	P22303	Alzheimer's Disease	Diagnostic	8.8 (8.06–9.54) nmol/ml*min	Adult: >=18 yrs old	Both	CSF	Pubmed_ID: 1303164
+Protein	89	Acetylcholinesterase	ACHE	P22303	Normal	Diagnostic	18.01 (15.75–20.27) nmol/ml*min	Adult: >=18 yrs old	Both	CSF	Pubmed_ID: 1303164
+Protein	89	Acetylcholinesterase	ACHE	P22303	Organophosphate poisoning	Diagnostic	<31.2 U/g hemoglobin	All	Both	blood	Mayo clinic: Acetylcholinesterase, Erythrocytes
+Protein	89	Acetylcholinesterase	ACHE	P22303	Normal	Diagnostic	46.3 (31.2-61.3) U/g hemoglobin	All	Both	blood	Mayo clinic: Acetylcholinesterase, Erythrocytes
+Protein	90	Amyloid Beta42		P05067	Alzheimer's Disease	Diagnostic	<1138 pg/ml	Adult: >=18 yrs old	Both	CSF	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	90	Amyloid Beta42		P05067	Normal	Diagnostic	1675.0 (1250.0–2100.0) pg/ml	Adult: >= 18 yrs old	Both	CSF	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	91	Vasopressin-neurophysin 2-copeptin	AVP	P01185	Autosomal Dominant Neurohypophyseal Diabetes Insipidus	Diagnostic	<0.9 pmol/L	All	Both	blood	medline
+Protein	91	Vasopressin-neurophysin 2-copeptin	AVP	P01185	Normal	Diagnostic	2.75 (0.9–4.6) pmol/L	All	Both	serum	medline
+Protein	91	Vasopressin-neurophysin 2-copeptin	AVP	P01185	Syndrome of inappropriate ADH	Diagnostic	>5 pg/mL	Adult: >=18 yrs old	Both	blood	University of California San Francisco: Antidiruetic hormone blood test
+Protein	91	Vasopressin-neurophysin 2-copeptin	AVP	P01185	Normal	Diagnostic	3 (1-5) pg/mL	Adult: >=18 yrs old	Both	blood	University of Califonia San Francisco: Antidiruetic hormone test
+Protein	92	Apolipoprotein E	APOE	P02649	Alzheimer's Disease	Diagnostic	43.7 (30.7–56.7) mg/L	Elderly: 65-100+ yrs old	Both	serum	Pubmed_ID: 11071064
+Protein	92	Apolipoprotein E	APOE	P02649	Normal	Diagnostic	47.4 (34.2–60.6) mg/L	Elderly: 65-100+ yrs old	Both	serum	Pubmed_ID: 11071064
+Protein	93	Beta-2-microglobulin	B2M	P61769	Multiple Myeloma	Diagnostic	>4 ug/mL	All	Both	serum	Mayo clinic: Beta-2-microglobulin Serum
+Protein	93	Beta-2-microglobulin	B2M	P61769	Normal	Diagnostic	2 (1.21-2.7) ug/mL	All	Both	serum	Mayo clinic: Beta-2-microglobulin Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Bone Metastases	Diagnostic	>290 U/L	Adult: >=18 yrs old	Both	Serum	Schindler, F., Lajolo, P. P., Pinczowski, H., Fonseca, F. L., Barbieri, A., Massonetto, L. H., Katto, F. T. & Del Giglio, A. Bone and total alkaline phosphatase for screening skeletal metastasis in patients with solid tumours. Eur J Cancer Care (Engl) 17, 152-156 (2008).
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Femoral Neck Osteoporsis	Diagnostic	107 (94-129) IU/L	Adult: >=18 yrs old	Female	Serum	Atalay, S., Elci, A., Kayadibi, H., Onder, C. B. & Aka, N. Diagnostic utility of osteocalcin, undercarboxylated osteocalcin, and alkaline phosphatase for osteoporosis in premenopausal and postmenopausal women. Ann Lab Med 32, 23-30 (2012).
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	L1 4 Spine Osteoporosis	Diagnostic	114 (88-130) IU/L	Adult: >=18 yrs old	Female	Serum	Atalay, S., Elci, A., Kayadibi, H., Onder, C. B. & Aka, N. Diagnostic utility of osteocalcin, undercarboxylated osteocalcin, and alkaline phosphatase for osteoporosis in premenopausal and postmenopausal women. Ann Lab Med 32, 23-30 (2012).
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	L2 4 Spine Osteoporosis	Diagnostic	104 (81-129) IU/L	Adult: >=18 yrs old	Female	Serum	Atalay, S., Elci, A., Kayadibi, H., Onder, C. B. & Aka, N. Diagnostic utility of osteocalcin, undercarboxylated osteocalcin, and alkaline phosphatase for osteoporosis in premenopausal and postmenopausal women. Ann Lab Med 32, 23-30 (2012).
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Paget's Disease of Bone	Diagnostic	>= 44 ug/L	Adult: >=18 yrs old	Female	serum	Jain S., Camacho P.M. (2019) Osteomalacia and Rickets. In: Camacho P. (eds) Metabolic Bone Diseases. Springer, Cham NIH Osteoporosis and Related Bone Diseases - National Resource Center: Paget's Disease of Bone
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Paget's Disease of Bone	Diagnostic	>= 28 ug/L	Adult: >=18 yrs old	Female	serum	Jain S., Camacho P.M. (2019) Osteomalacia and Rickets. In: Camacho P. (eds) Metabolic Bone Diseases. Springer, Cham NIH Osteoporosis and Related Bone Diseases - National Resource Center: Paget's Disease of Bone
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	123.0 (25.0–221.0) ug/L	Infant: 1 wk-2 yrs old	Male	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	87.5 (27.0–148.0) ug/L	Children: 2-17 yrs old	Male	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	102.0 (35.0–169.0) ug/L	Children: 2-17 yrs old	Male	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	62.0 (13.0–111.0) ug/L	Children: 2-17 yrs old	Male	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	<=20 ug/L	Adult: >=18 yrs old	Male	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	107.5 (28.0–187.0) ug/L	Children: 2-17 yrs old	Female	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	122.5 (31.0–214.0) ug/L	Children: 2-17 yrs old	Female	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	98.0 (19.0–177.0) ug/L	Children: 2-17 yrs old	Female	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	24.0 (7.0–41.0) ug/L	Children: 2-17 yrs old	Female	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	<=14 ug/L	Adult: >=18 yrs old	Female	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	<=22 ug/L	Adult: >=18 yrs old	Female	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Osteomalacia	Diagnostic	>20 ug/L	Adult: >=18 yrs old	Male	Serum	Mayo clinic: Bone alkaline phosphatase
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	21.19 (18.43-23.95) U/L	Adult: >=18 yrs old	Both	blood	Schindler, F., Lajolo, P. P., Pinczowski, H., Fonseca, F. L., Barbieri, A., Massonetto, L. H., Katto, F. T. & Del Giglio, A. Bone and total alkaline phosphatase for screening skeletal metastasis in patients with solid tumours. Eur J Cancer Care (Engl) 17, 152-156 (2008).
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	21.19 (18.43-23.95) U/L	Adult: >=18 yrs old	Both	blood	Schindler, F., Lajolo, P. P., Pinczowski, H., Fonseca, F. L., Barbieri, A., Massonetto, L. H., Katto, F. T. & Del Giglio, A. Bone and total alkaline phosphatase for screening skeletal metastasis in patients with solid tumours. Eur J Cancer Care (Engl) 17, 152-156 (2008).
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	21.19 (18.43-23.95) U/L	Adult: >=18 yrs old	Both	blood	Schindler, F., Lajolo, P. P., Pinczowski, H., Fonseca, F. L., Barbieri, A., Massonetto, L. H., Katto, F. T. & Del Giglio, A. Bone and total alkaline phosphatase for screening skeletal metastasis in patients with solid tumours. Eur J Cancer Care (Engl) 17, 152-156 (2008).
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	21.19 (18.43-23.95) U/L	Adult: >=18 yrs old	Both	blood	Schindler, F., Lajolo, P. P., Pinczowski, H., Fonseca, F. L., Barbieri, A., Massonetto, L. H., Katto, F. T. & Del Giglio, A. Bone and total alkaline phosphatase for screening skeletal metastasis in patients with solid tumours. Eur J Cancer Care (Engl) 17, 152-156 (2008).
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Osteomalacia	Diagnostic	>=44 ug/L	Adult: >=18 yrs old	Female	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	<=14 ug/L	Adult: >=18 yrs old	Female	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Osteomalacia	Diagnostic	>=28 ug/L	Adult: >=18 yrs old	Female	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	<=22 ug/L	Adult: >=18 yrs old	Female	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Paget's Disease of Bone	Diagnostic	>20 ug/L	Adult: >=18 yrs old	Male	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	94	Bone specific alkaline phosphatase	ALPL	P05186	Normal	Diagnostic	<=20 ug/L	Adult: >=18 yrs old	Male	serum	Mayo Clinic Laboratories: Bone Alkaline Phosphatase, Serum
+Protein	95	Brain natriuretic peptide		P16860	Congestive Heart Failure	Diagnostic	>2150 pmol/L	Adult: >=18 yrs old	Both	Serum	Collins, S. P., Ronan-Bentle, S. & Storrow, A. B. Diagnostic and prognostic usefulness of natriuretic peptides in emergency department patients with dyspnea. Ann Emerg Med 41, 532-545 (2003).
+Protein	95	Brain natriuretic peptide		P16860	Congestive Heart Failure	Diagnostic	>100 pg/mL	Adult: >=18 yrs old	Both	blood	US NLM MedlinePlus: Brain natriuretic peptide test
+Protein	95	Brain natriuretic peptide		P16860	Normal	Diagnostic	<100 pg/mL	Adult: >=18 yrs old	Both	blood	US NLM MedlinePlus: Brain natriuretic peptide test
+Protein	95	Brain natriuretic peptide		P16860	Normal	Diagnostic	<2150 pmol/L	Adult: >=18 yrs old	Both	Serum	Collins, S. P., Ronan-Bentle, S. & Storrow, A. B. Diagnostic and prognostic usefulness of natriuretic peptides in emergency department patients with dyspnea. Ann Emerg Med 41, 532-545 (2003).
+Protein	96	Butyrylcholinesterase	BCHE	P06276	Liver Disease	Diagnostic	2819.05 (1649.86–3988.24) IU/L	Adult: >=18 yrs old	Both	serum	Pubmed_ID: 16530396
+Protein	96	Butyrylcholinesterase	BCHE	P06276	Normal	Diagnostic	8014 (6203.33-9824.67) IU/L	Adult: >=18 yrs old	Both	serum	Pubmed_ID: 16530396
+Protein	96	Butyrylcholinesterase	BCHE	P06276	Organophosphate poisoning	Diagnostic	<5320 U/L	Adult: >=18 yrs old	Male	serum	Mayo clinic: Pseudocholinesterase, serum
+Protein	96	Butyrylcholinesterase	BCHE	P06276	Normal	Diagnostic	9120 (5320-12920) U/L	Adult: >=18 yrs old	Male	serum	Mayo clinic: Pseudocholinesterase, serum
+Protein	96	Butyrylcholinesterase	BCHE	P06276	Organophosphate poisoning	Diagnostic	<4260 U/L	Adult: >=18 yrs old	Female	serum	Mayo clinic: Pseudocholinesterase, serum
+Protein	96	Butyrylcholinesterase	BCHE	P06276	Normal	Diagnostic	8590 (4260-12920) U/L	Adult: >=18 yrs old	Female	serum	Mayo clinic: Pseudocholinesterase, serum
+Protein	99	CA 19-9 tumor marker		Q969X2	Intestinal Included Gastric Cancer	Diagnostic	> 11 U/mL U/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	99	CA 19-9 tumor marker		Q969X2	Normal	Diagnostic	< 11 U/mL U/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	99	CA 19-9 tumor marker		Q969X2	Cancer	Diagnostic	>37 U/mL	Adult: >=18 yrs old	Both	serum	University of Rochester Medical Center: CA19-9
+Protein	99	CA 19-9 tumor marker		Q969X2	Normal	Diagnostic	<37 U/mL	Adult: >=18 yrs old	Both	serum	University of Rochester Medical Center: CA19-9
+Protein	100	Calcitonin	CALCA	P01258	Familial Medullary Thyroid Carcinoma	Diagnostic	>120 pg/mL	Adult: >=18 yrs old	Female	serum	Laboratory Tests and Diagnostic Procedures , 266-432
+Protein	100	Calcitonin	CALCA	P01258	Normal	Diagnostic	<100 pg/mL	Adult: >=18 yrs old	Both	serum	Laboratory Tests and Diagnostic Procedures , 266-432
+Protein	100	Calcitonin	CALCA	P01258	Familial Medullary Thyroid Carcinoma	Diagnostic	>265 ng/mL	Adult: >=18 yrs old	Male	serum	Laboratory Tests and Diagnostic Procedures , 266-432
+Protein	101	Ceruloplasmin	CP	P00450	Normal	Diagnostic	15.55 (7.4–23.7) mg/dL	Infant: 1 wk-2 yrs old	Both	serum	Mayo Clinic Laboratories: Ceruloplasmin, Serum
+Protein	101	Ceruloplasmin	CP	P00450	Normal	Diagnostic	26.3 (13.7–38.9) mg/dL	Infant: 1 wk-2 yrs old	Both	serum	Mayo Clinic Laboratories: Ceruloplasmin, Serum
+Protein	101	Ceruloplasmin	CP	P00450	Normal	Diagnostic	23.2 (13.5–32.9) mg/dL	Infant: 1 wk-2 yrs old	Both	serum	Mayo Clinic Laboratories: Ceruloplasmin, Serum
+Protein	101	Ceruloplasmin	CP	P00450	Normal	Diagnostic	32.5 (21.7–43.3) mg/dL	Children: 2-17 yrs old	Both	serum	Mayo Clinic Laboratories: Ceruloplasmin, Serum
+Protein	101	Ceruloplasmin	CP	P00450	Normal	Diagnostic	30.35 (20.5–40.2) mg/dL	Children: 2-17 yrs old	Both	serum	Mayo Clinic Laboratories: Ceruloplasmin, Serum
+Protein	101	Ceruloplasmin	CP	P00450	Normal	Diagnostic	25.9 (17.0–34.8) mg/dL	Adolescent:13-18 yrs old	Male	serum	Mayo Clinic Laboratories: Ceruloplasmin, Serum
+Protein	101	Ceruloplasmin	CP	P00450	Normal	Diagnostic	25.0 (19.0–31.0) mg/dL	Adult: >= 18 yrs old	Male	serum	Mayo Clinic Laboratories: Ceruloplasmin, Serum
+Protein	101	Ceruloplasmin	CP	P00450	Normal	Diagnostic	32.0 (20.8–43.2) mg/dL	Adolescent:13-18 yrs old	Female	serum	Mayo Clinic Laboratories: Ceruloplasmin, Serum
+Protein	101	Ceruloplasmin	CP	P00450	Normal	Diagnostic	32.5 (17.0–48.0) mg/dL	Adult: >=18 yrs old	Female	serum	Mayo Clinic Laboratories: Ceruloplasmin, Serum
+Protein	101	Ceruloplasmin	CP	P00450	Wilson's Disease	Diagnostic	100.0 (0.0–200.0) mg/L	Adult: >=18 yrs old	Both	urine	Cox D.W., Tümer Z., Roberts E.A. (2000) Copper Transport Disorders: Wilson Disease and Menkes Disease. In: Fernandes J., Saudubray JM., Van den Berghe G. (eds) Inborn Metabolic Diseases. Springer, Berlin, Heidelberg
+Protein	101	Ceruloplasmin	CP	P00450	Normal	Diagnostic	275.0 (200.0–350.0) mg/L	Adult: >=18 yrs old	Both	serum	Cox D.W., Tümer Z., Roberts E.A. (2000) Copper Transport Disorders: Wilson Disease and Menkes Disease. In: Fernandes J., Saudubray JM., Van den Berghe G. (eds) Inborn Metabolic Diseases. Springer, Berlin, Heidelberg
+Protein	102	Chymotrypsin			Cystic Fibrosis of the Pancreas	Diagnostic	2.0 (0.0–4.0) U/g stool	Children: 2-17 yrs old	Both	stool	Pubmed_ID: 3581467
+Protein	102	Chymotrypsin			Normal	Diagnostic	34.0 (28.0–40.0) U/g stool	Children: 2-17 yrs old	Both	stool	Pubmed_ID: 3581467
+Protein	103	Complement C1		P09871	Complement Component 1 Deficiency	Diagnostic	<12 mg/dL	Adult: >=18 yrs old	Both	serum	Mayo Clinic Laboratories: Complement C1q serum
+Protein	103	Complement C1		P09871	Normal	Diagnostic	17.0 (12.0–22.0) mg/dL	Adult: >=18 yrs old	Both	serum	Mayo Clinic Laboratories: Complement C1q serum
+Protein	104	Component C2	C2	P06681	C2 Deficiency	Diagnostic	<25 U/mL	Adult: >= 18 yrs old	Both	serum	Mayo Clinic laboratories: C2FXN
+Protein	104	Component C2	C2	P06681	Normal	Diagnostic	36.0 (25.0–47.0) U/mL	Adult: >= 18 yrs old	Both	serum	Mayo Clinic laboratories: C2FXN
+Protein	105	Complement C3	C3	P01024	Systemic Lupus Erythematosus	Diagnostic	<75 mg/dL	Adult: >= 18 yrs old	Both	serum	Mayo Clinic laboratories: Complement C3 serum
+Protein	105	Complement C3	C3	P01024	Normal	Diagnostic	125.0 (75.0–175.0) mg/dL	Adult: >= 18 yrs old	Both	serum	Mayo Clinic laboratories: Complement C3 serum
+Protein	105	Complement C3	C3	P01024	Acute Glomerulonephritis	Diagnostic	<75 mg/dL	Adult: >= 18 yrs old	Both	serum	Mayo Clinic laboratories: Complement C3 serum
+Protein	105	Complement C3	C3	P01024	Normal	Diagnostic	125.0 (75.0–175.0) mg/dL	Adult: >= 18 yrs old	Both	serum	Mayo Clinic laboratories: Complement C3 serum
+Protein	105	Complement C3	C3	P01024	Membranoproliferative Glomerulonephritis	Diagnostic	<75 mg/dL	Adult: >= 18 yrs old	Both	serum	Mayo Clinic laboratories: Complement C3 serum
+Protein	105	Complement C3	C3	P01024	Normal	Diagnostic	125.0 (75.0–175.0) mg/dL	Adult: >= 18 yrs old	Both	serum	Mayo Clinic laboratories: Complement C3 serum
+Protein	105	Complement C3	C3	P01024	Immune Complex Disease	Diagnostic	<75 mg/dL	Adult: >= 18 yrs old	Both	serum	Mayo Clinic laboratories: Complement C3 serum
+Protein	105	Complement C3	C3	P01024	Normal	Diagnostic	125.0 (75.0–175.0) mg/dL	Adult: >= 18 yrs old	Both	serum	Mayo Clinic laboratories: Complement C3 serum
+Protein	105	Complement C3	C3	P01024	Septic Shock	Diagnostic	<75 mg/dL	Adult: >= 18 yrs old	Both	serum	Mayo Clinic laboratories: Complement C3 serum
+Protein	105	Complement C3	C3	P01024	Normal	Diagnostic	125.0 (75.0–175.0) mg/dL	Adult: >= 18 yrs old	Both	serum	Mayo Clinic laboratories: Complement C3 serum
+Protein	105	Complement C3	C3	P01024	Systemic Lupus Erythematosus	Diagnostic	<80 mg/dL	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Complement C3 (Blood)
+Protein	105	Complement C3	C3	P01024	Normal	Diagnostic	120 (80-160) mg/dL	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Complement C3 (Blood)
+Protein	105	Complement C3	C3	P01024	Chronic Kidney Disease	Diagnostic	<80 mg/dL	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Complement C3 (Blood)
+Protein	105	Complement C3	C3	P01024	Normal	Diagnostic	120 (80-160) mg/dL	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Complement C3 (Blood)
+Protein	106	Complement C4		P0C0L4	Hereditary Angioedema	Diagnostic	<14 mg/dL	Adult: >=18 yrs old	Both	serum	Mayo clinic laboratories: Complement C4 serum
+Protein	106	Complement C4		P0C0L4	Normal	Diagnostic	27.0 (14.0–40.0) mg/dL	Adult: >= 18 yrs old	Both	serum	Mayo clinic laboratories: Complement C4 serum
+Protein	106	Complement C4		P0C0L4	Systemic Lupus Erythematosus	Diagnostic	<14 mg/dL	Adult: >=18 yrs old	Both	serum	Mayo clinic laboratories: Complement C4 serum
+Protein	106	Complement C4		P0C0L4	Normal	Diagnostic	27 (40-14) mg/dL	Adult: >=18 yrs old	Both	serum	Mayo clinic laboratories: Complement C4 serum
+Protein	106	Complement C4		P0C0L4	Rheumatoid Arthritis	Diagnostic	<14 mg/dL	Adult: >=18 yrs old	Both	serum	Mayo clinic laboratories: Complement C4 serum
+Protein	106	Complement C4		P0C0L4	Normal	Diagnostic	27 (40-14) mg/dL	Adult: >=18 yrs old	Both	serum	Mayo clinic laboratories: Complement C4 serum
+Protein	107	Pancreatic elastase-1		Q9UNI1	Normal	Diagnostic	<3.5 ng/mL	Adult: >=18 yrs old	Both	serum	Mayo Clinic Laboratories: Elastase, Pancreatic, Serum
+Protein	107	Pancreatic elastase-1		Q9UNI1	Pancreatic Insufficiency	Diagnostic	<100 ug/g stool	Adult: >=18 yrs old	Both	stool	Pubmed_ID: 18506918
+Protein	107	Pancreatic elastase-1		Q9UNI1	Normal	Diagnostic	>200 ug/g stool	Adult: >=18 yrs old	Both	stool	Pubmed_ID: 18506918
+Protein	121	Ferritin		P02794	Iron Deficiency	Diagnostic	<24 ug/L	Adult: >=18 yrs old	Male	blood	Mayo clinic: Ferritin test
+Protein	121	Ferritin		P02794	Normal	Diagnostic	180 (24-336) ug/L	Adult: >=18 yrs old	Male	blood	Mayo clinic: Ferritin test
+Protein	121	Ferritin		P02794	Iron Deficiency	Diagnostic	<11 ug/L	Adult: >=18 yrs old	Female	blood	Mayo clinic: Ferritin test
+Protein	121	Ferritin		P02794	Normal	Diagnostic	159 (11-307)	Adult: >=18 yrs old	Female	blood	Mayo clinic: Ferritin test
+Protein	121	Ferritin		P02794	Iron Deficiency	Diagnostic	<24 ug/L	Adult: >=18 yrs old	Male	blood	Mayo clinic: Ferritin test
+Protein	121	Ferritin		P02794	Normal	Diagnostic	180 (24-336) ug/L	Adult: >=18 yrs old	Male	blood	Mayo clinic: Ferritin test
+Protein	121	Ferritin		P02794	Iron Deficiency	Diagnostic	<11 ug/L	Adult: >=18 yrs old	Female	blood	Mayo clinic: Ferritin test
+Protein	121	Ferritin		P02794	Normal	Diagnostic	159 (307-11) ug/L	Adult: >=18 yrs old	Female	blood	Mayo clinic: Ferritin test
+Protein	122	Gammaglutamyl transferase (GGT)	GGT	P19440	Normal	Diagnostic	<178 U/L	Infant: 1 wk-2 yrs old	Both	serum	Mayo Clinic Laboratories: Gamma-Glutamyltransferase (GGT), Serum
+Protein	122	Gammaglutamyl transferase (GGT)	GGT	P19440	Normal	Diagnostic	<21 U/L	Children: 2-17 yrs old	Both	serum	Mayo Clinic Laboratories: Gamma-Glutamyltransferase (GGT), Serum
+Protein	122	Gammaglutamyl transferase (GGT)	GGT	P19440	Normal	Diagnostic	<24 U/L	Children: 2-17 yrs old	Both	serum	Mayo Clinic Laboratories: Gamma-Glutamyltransferase (GGT), Serum
+Protein	122	Gammaglutamyl transferase (GGT)	GGT	P19440	Normal	Diagnostic	<43 U/L	Adolescent:13-18 yrs old	Male	serum	Mayo Clinic Laboratories: Gamma-Glutamyltransferase (GGT), Serum
+Protein	122	Gammaglutamyl transferase (GGT)	GGT	P19440	Normal	Diagnostic	<26 U/L	Adolescent:13-18 yrs old	Female	serum	Mayo Clinic Laboratories: Gamma-Glutamyltransferase (GGT), Serum
+Protein	122	Gammaglutamyl transferase (GGT)	GGT	P19440	Liver Disease	Diagnostic	>178 U/L	Infant: 1 wk-2 yrs old	Both	serum	Mayo Clinic Laboratories: Gamma-Glutamyltransferase (GGT), Serum
+Protein	122	Gammaglutamyl transferase (GGT)	GGT	P19440	Liver Disease	Diagnostic	>21 U/L	Children: 2-17 yrs old	Both	serum	Mayo Clinic Laboratories: Gamma-Glutamyltransferase (GGT), Serum
+Protein	122	Gammaglutamyl transferase (GGT)	GGT	P19440	Liver Disease	Diagnostic	>24 U/L	Children: 2-17 yrs old	Both	serum	Mayo Clinic Laboratories: Gamma-Glutamyltransferase (GGT), Serum
+Protein	122	Gammaglutamyl transferase (GGT)	GGT	P19440	Liver Disease	Diagnostic	>43 U/L	Adolescent:13-18 yrs old	Male	serum	Mayo Clinic Laboratories: Gamma-Glutamyltransferase (GGT), Serum
+Protein	122	Gammaglutamyl transferase (GGT)	GGT	P19440	Liver Disease	Diagnostic	>26 U/L	Adolescent:13-18 yrs old	Female	serum	Mayo Clinic Laboratories: Gamma-Glutamyltransferase (GGT), Serum
+Protein	122	Gammaglutamyl transferase (GGT)	GGT	P19440	Liver Disease	Diagnostic	>61 U/L	Adult: >=18 yrs old	Male	blood	Mayo clinic: Gamma-Glutamyltransferase (GGT), Serum
+Protein	122	Gammaglutamyl transferase (GGT)	GGT	P19440	Normal	Diagnostic	34.5 (8-61) U/L	Adult: >=18 yrs old	Male	blood	Mayo clinic: Gamma-Glutamyltransferase (GGT), Serum
+Protein	122	Gammaglutamyl transferase (GGT)	GGT	P19440	Liver Disease	Diagnostic	>36 U/L	Adult: >=18 yrs old	Female	blood	Mayo clinic: Gamma-Glutamyltransferase (GGT), Serum
+Protein	122	Gammaglutamyl transferase (GGT)	GGT	P19440	Normal	Diagnostic	20.5 (5-36) U/L	Adult: >=18 yrs old	Female	blood	Mayo clinic: Gamma-Glutamyltransferase (GGT), Serum
+Protein	123	Haptoglobin	HP	Q5SSJ5	Normal	Diagnostic	95.0 (30.0–160.0) mg/dL	Adult: >=18 yrs old	Both	blood	Cavanaugh, B. M. (2003). Nurse’s Manual of Laboratory and Diagnostic Tests: Vol. 4th ed. F.A. Davis Company.
+Protein	123	Haptoglobin	HP	Q5SSJ5	Normal	Diagnostic	5.0 (0.0–10.0) mg/dL	Newborn: 0 day-1 wk	Both	blood	Cavanaugh, B. M. (2003). Nurse’s Manual of Laboratory and Diagnostic Tests: Vol. 4th ed. F.A. Davis Company.
+Protein	123	Haptoglobin	HP	Q5SSJ5	Anemia	Diagnostic	<45 mg/dL	Adult: >=18 yrs old	Both	blood	Healthline: Haptoglobin Test
+Protein	124	Hemoglobin	HB	P69905	Normal	Diagnostic	15.5 (13.5–17.5) g/dL	Adult: >=18 yrs old	Male	blood	Mayo Clinic: Hemoglobin test
+Protein	124	Hemoglobin	HB	P69905	Normal	Diagnostic	13.8 (12.0-15.5) g/dL	Adult: >=18 yrs old	Female	blood	Mayo Clinic: Hemoglobin test
+Protein	124	Hemoglobin	HB	P69905	Anemia	Diagnostic	<12 g/dL	Adult: >=18 yrs old	Female	blood	Pubmed_ID: 26404438
+Protein	124	Hemoglobin	HB	P69905	Anemia	Diagnostic	<13.5 g/dL	Adult: >=18 yrs old	Male	blood	Pubmed_ID: 26404438
+Protein	125	IgA		P01860	Immunoglobulin A Deficiency	Diagnostic	<0.8 g/L	Adult: >=18 yrs old	Both	serum	Exeter Clinical Laboratories: Immunoglobulin laboratories
+Protein	125	IgA		P01860	Normal	Diagnostic	2.4 (0.8-4.0) g/L	Adult: >=18 yrs old	Both	serum	Exeter Clinical Laboratories: Immunoglobulin laboratories
+Protein	125	IgA		P01860	Chronic Infections	Diagnostic	>400 mg/dL	Adult: >=18 yrs old	Both	blood	Labtests online: Immunoglobulins (IgA, IgG, IgM)
+Protein	125	IgA		P01860	Normal	Diagnostic	230 (60-400) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	125	IgA		P01860	Autoimmune Disease	Diagnostic	>400 mg/dL	Adult: >=18 yrs old	Both	blood	Labtests online: Immunoglobulins (IgA, IgG, IgM)
+Protein	125	IgA		P01860	Normal	Diagnostic	230 (60-400) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	125	IgA		P01860	Cirrhosis	Diagnostic	>400 mg/dL	Adult: >=18 yrs old	Both	blood	Labtests online: Immunoglobulins (IgA, IgG, IgM)
+Protein	125	IgA		P01860	Normal	Diagnostic	230 (60-400) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	125	IgA		P01860	Multiple Myeloma	Diagnostic	<60 mg/dL	Adult: >=18 yrs old	Both	blood	Labtests online: Immunoglobulins (IgA, IgG, IgM)
+Protein	125	IgA		P01860	Normal	Diagnostic	230 (60-400) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	125	IgA		P01860	Normal	Diagnostic	230 (60-400) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	126	IgE		P01860	Allergic Disease	Diagnostic	>13 kU/L	Infant: 1 wk-2 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=13 kU/L	Infant: 1 wk-2 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Allergic Disease	Diagnostic	>34 kU/L	Infant: 1 wk-2 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=34 kU/L	Infant: 1 wk-2 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Allergic Disease	Diagnostic	>97 kU/L	Infant: 1 wk-2 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=97 kU/L	Infant: 1 wk-2 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Allergic Disease	Diagnostic	>199 kU/L	Children: 2-17 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=199 kU/L	Children: 2-17 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Allergic Disease	Diagnostic	>307 kU/L	Children: 2-17 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=307 kU/L	Children: 2-17 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Allergic Disease	Diagnostic	>403 kU/L	Children: 2-17 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=403 kU/L	Children: 2-17 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Allergic Disease	Diagnostic	>696 kU/L	Children: 2-17 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=696 kU/L	Children: 2-17 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Allergic Disease	Diagnostic	>629 kU/L	Adolescent:13-18 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=629 kU/L	Adolescent:13-18 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Allergic Disease	Diagnostic	>537 kU/L	Adolescent:13-18 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=537 kU/L	Adolescent:13-18 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Allergic Disease	Diagnostic	>214 kU/L	Adult: >=18 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=214 kU/L	Adult: >=18 yrs old	Both	serum	Mayo Clinic Laboratories: Immunoglobulin E serum
+Protein	126	IgE		P01860	Allergic bronchopulmonary aspergillosis	Diagnostic	>13 kU/L	Infant: 1 wk-2 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=13 kU/L	Infant: 1 wk-2 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Allergic bronchopulmonary aspergillosis	Diagnostic	>34 kU/L	Infant: 1 wk-2 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=34 kU/L	Infant: 1 wk-2 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Allergic bronchopulmonary aspergillosis	Diagnostic	>97 kU/L	Infant: 1 wk-2 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=97 kU/L	Infant: 1 wk-2 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Allergic bronchopulmonary aspergillosis	Diagnostic	>199 kU/L	Children: 2-17 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=199 kU/L	Children: 2-17 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Allergic bronchopulmonary aspergillosis	Diagnostic	>307 kU/L	Children: 2-17 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=307 kU/L	Children: 2-17 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Allergic bronchopulmonary aspergillosis	Diagnostic	>403 kU/L	Children: 2-17 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=403 kU/L	Children: 2-17 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Allergic bronchopulmonary aspergillosis	Diagnostic	>696 kU/L	Children: 2-17 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=696 kU/L	Children: 2-17 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Allergic bronchopulmonary aspergillosis	Diagnostic	>629 kU/L	Adolescent:13-18 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=629 kU/L	Adolescent:13-18 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Allergic bronchopulmonary aspergillosis	Diagnostic	>537 kU/L	Adolescent:13-18 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=537 kU/L	Adolescent:13-18 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Allergic bronchopulmonary aspergillosis	Diagnostic	>214 kU/L	Adult: >=18 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	126	IgE		P01860	Normal	Diagnostic	<=214 kU/L	Adult: >=18 yrs old	Both	serum	mayo clinic: Immunoglobulin E, serum
+Protein	127	IgG		P01860	Chronic Infections	Diagnostic	>1500 mg/dL	Adult: >=18 yrs old	Both	blood	Labtests online: Immunoglobulins (IgA, IgG, IgM)
+Protein	127	IgG		P01860	Normal	Diagnostic	1100 (700-1500) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	127	IgG		P01860	Autoimmune Disease	Diagnostic	>1500 mg/dL	Adult: >=18 yrs old	Both	blood	Labtests online: Immunoglobulins (IgA, IgG, IgM)
+Protein	127	IgG		P01860	Normal	Diagnostic	1100 (700-1500) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	127	IgG		P01860	Cirrhosis	Diagnostic	>1500 mg/dL	Adult: >=18 yrs old	Both	blood	Labtests online: Immunoglobulins (IgA, IgG, IgM)
+Protein	127	IgG		P01860	Normal	Diagnostic	1100 (700-1500) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	127	IgG		P01860	Multiple Myeloma	Diagnostic	<700 mg/dL	Adult: >=18 yrs old	Both	blood	Labtests online: Immunoglobulins (IgA, IgG, IgM)
+Protein	127	IgG		P01860	Normal	Diagnostic	1100 (700-1500) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	127	IgG		P01860	Autoimmune Hepatitis	Diagnostic	>2250 mg/dL	Adult: >=18 yrs old	Both	blood	Cleaveland Clinic: Autoimmune Hepatitis
+Protein	127	IgG		P01860	Normal	Diagnostic	1100 (700-1500) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	128	IgM		P01860	Non-specific Inflammation	Diagnostic	>2 g/L	Adult: >=18 yrs old	Both	serum	Exeter Clinical Laboratories: Immunoglobulin laboratories
+Protein	128	IgM		P01860	Chronic Infections	Diagnostic	>300 mg/dL	Adult: >=18 yrs old	Both	blood	Labtests online: Immunoglobulins (IgA, IgG, IgM)
+Protein	128	IgM		P01860	Normal	Diagnostic	180 (60-300) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	128	IgM		P01860	Autoimmune Disease	Diagnostic	>300 mg/dL	Adult: >=18 yrs old	Both	blood	Labtests online: Immunoglobulins (IgA, IgG, IgM)
+Protein	128	IgM		P01860	Normal	Diagnostic	180 (60-300) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	128	IgM		P01860	Cirrhosis	Diagnostic	>300 mg/dL	Adult: >=18 yrs old	Both	blood	Labtests online: Immunoglobulins (IgA, IgG, IgM)
+Protein	128	IgM		P01860	Normal	Diagnostic	180 (60-300) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	128	IgM		P01860	Normal	Diagnostic	180 (60-300) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	128	IgM		P01860	Normal	Diagnostic	180 (60-300) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Medicine: Immunoglobulins
+Protein	128	IgM		P01860	Normal	Diagnostic	1.25 (0.5-2) g/L	Adult: >=18 yrs old	Both	blood	Exeter clinical laboratories: Immunologbulins (IgA, IgG, IgM) tests
+Protein	128	IgM		P01860	Waldenstrom Macroglobulinemia	Diagnostic	>300 mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Health: IgM
+Protein	128	IgM		P01860	Normal	Diagnostic	180 (60-300) mg/dL	Adult: >=18 yrs old	Both	blood	University of Michigan Health: IgM
+Protein	129	Insulin	INS	P01308	Diabetes Mellitus Type 1	Diagnostic	<125 pmol/L	Adult: >=18 yrs old	Both	blood	Medscape: Insulin tests
+Protein	129	Insulin	INS	P01308	Normal	Diagnostic	896 pmol/L	Adult: >=18 yrs old	Both	blood	Medscape: Insulin tests
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	132.5 (115.5) ng/mL	Children: 2-17 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	281.0 (88.0–474.0) ng/mL	Children: 2-17 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	337.5 (227.5) ng/mL	Children: 2-17 yrs old	Male	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	444.0 (117.0–771.0) ng/mL	Children: 2-17 yrs old	Female	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Pituitary Gigantism	Diagnostic	>248 ng/mL	Children: 2-17 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Pituitary Gigantism	Diagnostic	>474 ng/mL	Children: 2-17 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Pituitary Gigantism	Diagnostic	>565 ng/mL	Children: 2-17 yrs old	Male	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Pituitary Gigantism	Diagnostic	>771 ng/mL	Children: 2-17 yrs old	Female	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Hypothyroidism	Diagnostic	<17 ng/mL	Children: 2-17 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Hypothyroidism	Diagnostic	<88 ng/mL	Children: 2-17 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Hypothyroidism	Diagnostic	<110 ng/mL	Children: 2-17 yrs old	Male	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Hypothyroidism	Diagnostic	<117 ng/mL	Children: 2-17 yrs old	Female	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	579.5 (377.5) ng/mL	Children: 2-17 yrs old	Male	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	678.5 (417.5) ng/mL	Children: 2-17 yrs old	Female	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	481.0 (182.0–780.0) ng/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	303.0 (114.0–492.0) ng/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	225.0 (90.0–360.0) ng/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	180.5 (109.5) ng/mL	Elderly: 65-100+ yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Pituitary Gigantism	Diagnostic	>957 ng/mL	Children: 2-17 yrs old	Male	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Pituitary Gigantism	Diagnostic	>1096 ng/mL	Children: 2-17 yrs old	Female	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Pituitary Gigantism	Diagnostic	>780 ng/mL	Adolescent:13-18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Pituitary Gigantism	Diagnostic	>492 ng/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Pituitary Gigantism	Diagnostic	>360 ng/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Pituitary Gigantism	Diagnostic	>290 ng/mL	Elderly: 65-100+ yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Hypothyroidism	Diagnostic	<202 ng/mL	Children: 2-17 yrs old	Male	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Hypothyroidism	Diagnostic	<261 ng/mL	Children: 2-17 yrs old	Female	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Hypothyroidism	Diagnostic	<182 ng/mL	Adolescent:13-18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Hypothyroidism	Diagnostic	<114 ng/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Hypothyroidism	Diagnostic	<90 ng/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Hypothyroidism	Diagnostic	<71 ng/mL	Elderly: 65-100+ yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	579.5 (202-957) ng/mL	Children: 2-17 yrs old	Male	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	678.5 (261-1096) ng/mL	Children: 2-17 yrs old	Female	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	481 (182-780) ng/mL	Adolescent:13-18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	303 (114-492) ng/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	225 (90-360) ng/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	180.5 (71-290) ng/mL	Elderly: 65-100+ yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	579.5 (202-957) ng/mL	Children: 2-17 yrs old	Male	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	678.5 (261-1096) ng/mL	Children: 2-17 yrs old	Female	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	481 (182-780) ng/mL	Adolescent:13-18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	303 (114-492) ng/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	225 (90-360) ng/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	180.5 (71-290) ng/mL	Elderly: 65-100+ yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	579.5 (202-957) ng/mL	Children: 2-17 yrs old	Male	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	678.5 (261-1096) ng/mL	Children: 2-17 yrs old	Female	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	481 (182-780) ng/mL	Adolescent:13-18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	303 (114-492) ng/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	225 (90-360) ng/mL	Adult: >=18 yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	130	Insulin-like growth factor 1	IGF1	P08069	Normal	Diagnostic	180.5 (71-290) ng/mL	Elderly: 65-100+ yrs old	Both	blood	Chernecky, Cynthia C, and Barbara J Berger. Laboratory Tests and Diagnostic Procedures. 6th ed. St. Louis, Mo.: Elsevier/Saunders, 2013.
+Protein	131	Interleukin-6	IL6	P08887	Myocardial Infarction	Diagnostic	28.5 (6.6) pg/mL	Elderly: 65-100+ yrs old	Both	blood	Pubmed_ID: 8249785
+Protein	131	Interleukin-6	IL6	P08887	Myocardial Infarction	Diagnostic	11.4 (2.9) pg/mL	Elderly: 65-100+ yrs old	Both	blood	Pubmed_ID: 8249785
+Protein	131	Interleukin-6	IL6	P08887	Sepsis	Diagnostic	28 pg/mL	Children: 1-13 yrs old	Both	blood	Pubmed_ID: 30004393
+Protein	131	Interleukin-6	IL6	P08887	Normal	Diagnostic	2.8 pg/mL	Children: 1-13 yrs old	Both	blood	Pubmed_ID: 30004393
+Protein	132	Interferon gamma	IFNG	P01579	Tuberculosis	Diagnostic	>2 pg/mL	Adult: >=18 yrs old	Both	blood	Mayo Clinica Laboratories: IFN-gamma serum
+Protein	132	Interferon gamma	IFNG	P01579	Normal	Diagnostic	<2 pg/mL	Adult: >=18 yrs old	Both	blood	Mayo Clinica Laboratories: IFN-gamma serum
+Protein	133	Lactate dehydrogenase		P00338	Hepatocellular Carcinoma	Diagnostic	>500 IU/L	Adult: >=18 yrs old	Both	serum	Henry's Clinical Diagnosis and Management by Laboratory Methods
+Protein	133	Lactate dehydrogenase		P00338	Normal	Diagnostic	365.0 (240.0–490.0) IU/L	All	Both	blood	Exeter Clinical Laboratories: Lactate Dehydrogenase Blood Test
+Protein	134	Lactotransferrin	LTF	P02788	Spontaneous Bacterial Peritonitis	Diagnostic	3744.0 (788–9617) ng/mL	Adult: >=18 yrs old	Both	ascitic fluid	Pubmed_ID: 18590731
+Protein	134	Lactotransferrin	LTF	P02788	Normal	Diagnostic	31.0 (12–67) ng/mL	Adult: >=18 yrs old	Both	ascitic fluid	Pubmed_ID: 18590731
+Protein	134	Lactotransferrin	LTF	P02788	Crohn's Disease	Diagnostic	440 (312-568) ug/g fecal weight	Adult: >=18 yrs old	Both	fecal	Pubmed_ID: 12818275
+Protein	134	Lactotransferrin	LTF	P02788	Normal	Diagnostic	1.45 (1.05-1.85) ug/g fecal weight	Adult: >=18 yrs old	Both	fecal	Pubmed_ID: 12818275
+Protein	134	Lactotransferrin	LTF	P02788	Ulcerative Colitis	Diagnostic	1125 (627-1623) ug/g fecal weight	Adult: >=18 yrs old	Both	fecal	Pubmed_ID: 12818275
+Protein	134	Lactotransferrin	LTF	P02788	Normal	Diagnostic	1.45 (1.05-1.85) ug/g fecal weight	Adult: >=18 yrs old	Both	fecal	Pubmed_ID: 12818275
+Protein	136	Parathyroid hormone	PTH	Q03431	Hyperparathyroidism	Diagnostic	>6.9 pmol/L	Adult: >=18 yrs old	Both	serum	Exeter clinical laboratory: Parathyroid hormone
+Protein	136	Parathyroid hormone	PTH	Q03431	Normal	Diagnostic	4.25 (1.6-6.9) pmol/L	Adult: >=18 yrs old	Both	serum	Exeter clinical laboratory: Parathyroid hormone
+Protein	136	Parathyroid hormone	PTH	Q03431	Hypoparathyroidism	Diagnostic	<1.6 pmol/L	Adult: >=18 yrs old	Both	serum	Exeter clinical laboratory: Parathyroid hormone
+Protein	136	Parathyroid hormone	PTH	Q03431	Normal	Diagnostic	4.25 (1.6-6.9) pmol/L	Adult: >=18 yrs old	Both	serum	Exeter clinical laboratory: Parathyroid hormone
+Protein	137	Adrenocorticotropic hormone	ACTH		Cushing's Syndrome	Diagnostic	>8 pg/mL	Adult: >=18 yrs old	Both	Serum	Penezic, Z., Zarkovic, M., Vujovic, S., Beleslin, B., Ciric, J. & Drezgic, M. Value of assessing adrenocorticotropic hormone (ACTH) levels in differential diagnosis of hypercorticism. Med Pregl 57, 335-342 (2004).
+Protein	137	Adrenocorticotropic hormone	ACTH		Addison's Disease	Diagnostic	>80 (morning) or >50 (evening) pg/mL	Adult: >=18 yrs old	Both	blood	Health link BC: Adrenocorticotropic Hormone
+Protein	137	Adrenocorticotropic hormone	ACTH		Normal	Diagnostic	<80 (morning) or <50 (evening) pg/mL	Adult: >=18 yrs old	Both	blood	Health link BC: Adrenocorticotropic Hormone
+Protein	137	Adrenocorticotropic hormone	ACTH		Normal	Diagnostic	11.575 (7.2-63) pg/mL	Adult: >=18 yrs old	Both	Serum	Mayo clinic: ACTH test
+Protein	146	Transglutaminase  IgA antibody		P01860	Celiac Disease	Diagnostic	>10 U/mL	All	Both	serum	Mayo clinic laboratories: Transglutaminase IgA antibody
+Protein	146	Transglutaminase  IgA antibody		P01860	Normal	Diagnostic	<4 U/mL	All	Both	serum	Mayo clinic laboratories: Transglutaminase IgA antibody
+Protein	147	Renin	REN	P00797	Hypertension	Diagnostic	>3.7 ng/mL/hr	Adult: >=18 yrs old	Both	blood	UCLA health: Renin Test: Plasma Renin Activity; Random Plasma Renin
+Protein	147	Renin	REN	P00797	Normal	Diagnostic	2.8 (1.9-3.7) ng/mL/hr	Adult: >=18 yrs old	Both	blood	UCLA health: Renin Test: Plasma Renin Activity; Random Plasma Renin
+Protein	147	Renin	REN	P00797	Primary hyperaldosteronism	Diagnostic	<1.9 ng/mL/hr	Adult: >=18 yrs old	Both	blood	UCLA health: Renin Test: Plasma Renin Activity; Random Plasma Renin
+Protein	147	Renin	REN	P00797	Normal	Diagnostic	2.8 (1.9-3.7) ng/mL/hr	Adult: >=18 yrs old	Both	blood	UCLA health: Renin Test: Plasma Renin Activity; Random Plasma Renin
+Protein	147	Renin	REN	P00797	Secondary hyperaldosteronism	Diagnostic	>3.7 ng/mL/hr	Adult: >=18 yrs old	Both	blood	UCLA health: Renin Test: Plasma Renin Activity; Random Plasma Renin
+Protein	147	Renin	REN	P00797	Normal	Diagnostic	2.8 (1.9-3.7) ng/mL/hr	Adult: >=18 yrs old	Both	blood	UCLA health: Renin Test: Plasma Renin Activity; Random Plasma Renin
+Protein	148	Cardiac Troponin T	TNNT2	P45379	Cardiac Arrest	Diagnostic	>0 ng/mL	Elderly: >=65 yrs old	Both	blood	University of California San Francisco: Troponin Test
+Protein	148	Cardiac Troponin T	TNNT2	P45379	Normal	Diagnostic	0 ng/mL	Elderly: >=65 yrs old	Both	blood	University of California San Francisco: Troponin Test
+Protein	149	Cardiac  Troponin I	TNNI3	P19429	Myocardial Infarction	Diagnostic	>0.5 ug/L	Adult: >=18 yrs old	Both	Serum	Kruse, J. M., Enghard, P., Schroder, T., Hasper, D., Kuhnle, Y., Jorres, A. & Storm, C. Weak diagnostic performance of troponin, creatine kinase and creatine kinase-MB to diagnose or exclude myocardial infarction after successful resuscitation. Int J Cardiol 173, 216-221 (2014).
+Protein	149	Cardiac  Troponin I	TNNI3	P19429	Normal	Diagnostic	0 ng/mL	Elderly: >=65 yrs old	Both	blood	University of California San Francisco: Troponin Test
+Protein	149	Cardiac  Troponin I	TNNI3	P19429	Normal	Diagnostic	<0.5 ug/L	Adult: >=18 yrs old	Both	Serum	Kruse, J. M., Enghard, P., Schroder, T., Hasper, D., Kuhnle, Y., Jorres, A. & Storm, C. Weak diagnostic performance of troponin, creatine kinase and creatine kinase-MB to diagnose or exclude myocardial infarction after successful resuscitation. Int J Cardiol 173, 216-221 (2014).
+Protein	150	Transthyretin	TTR	P02766	Chronic Kidney Disease	Diagnostic	>36	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Prealbumin (Blood)
+Protein	150	Transthyretin	TTR	P02766	Normal	Diagnostic	25.5 (15-36)	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Prealbumin (Blood)
+Protein	150	Transthyretin	TTR	P02766	Malnutrition	Diagnostic	<10 mg/dL	Adult: >=18 yrs old	Both	blood	Pubmed_ID: 31159248
+Protein	150	Transthyretin	TTR	P02766	Normal	Diagnostic	25.5 (15-36) mg/dL	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Prealbumin (Blood)
+Protein	151	Erythropoietin	EPO	P01588	Normal	Diagnostic	9.0 (5.0–13.0) mIU/mL	Infant: 1 wk-2 yrs old	Both	serum	Normal Hormone Reference Ranges. In: Gardner DG, Shoback D. eds. Greenspan's Basic & Clinical Endocrinology, 10e New York, NY: McGraw-Hill
+Protein	151	Erythropoietin	EPO	P01588	Polycythemia	Diagnostic	13 mIU/mL	Infant: 1 wk-2 yrs old	Both	serum	Normal Hormone Reference Ranges. In: Gardner DG, Shoback D. eds. Greenspan's Basic & Clinical Endocrinology, 10e New York, NY: McGraw-Hill
+Protein	151	Erythropoietin	EPO	P01588	Anemia	Diagnostic	<5 mIU/mL	Infant: 1 wk-2 yrs old	Both	serum	Normal Hormone Reference Ranges. In: Gardner DG, Shoback D. eds. Greenspan's Basic & Clinical Endocrinology, 10e New York, NY: McGraw-Hill
+Protein	151	Erythropoietin	EPO	P01588	Normal	Diagnostic	18.5 (9.0–28.0) mIU/mL	Children: 2-17 yrs old	Both	serum	Normal Hormone Reference Ranges. In: Gardner DG, Shoback D. eds. Greenspan's Basic & Clinical Endocrinology, 10e New York, NY: McGraw-Hill
+Protein	151	Erythropoietin	EPO	P01588	Anemia	Diagnostic	<9 mIU/mL	Children: 2-17 yrs old	Both	serum	Normal Hormone Reference Ranges. In: Gardner DG, Shoback D. eds. Greenspan's Basic & Clinical Endocrinology, 10e New York, NY: McGraw-Hill
+Protein	151	Erythropoietin	EPO	P01588	Polycythemia	Diagnostic	>28 mIU/mL	Children: 2-17 yrs old	Both	serum	Normal Hormone Reference Ranges. In: Gardner DG, Shoback D. eds. Greenspan's Basic & Clinical Endocrinology, 10e New York, NY: McGraw-Hill
+Protein	151	Erythropoietin	EPO	P01588	Polycythemia	Diagnostic	>18.5 mU/mL	Adult: >=18 yrs old	Both	blood	Medline: Erythropoietin test
+Protein	151	Erythropoietin	EPO	P01588	Normal	Diagnostic	10.55 (2.6-18.5) mU/mL	Adult: >=18 yrs old	Both	blood	Medline: Erythropoietin test
+Protein	151	Erythropoietin	EPO	P01588	Polycythemia Vera	Diagnostic	<2.6 mU/mL	Adult: >=18 yrs old	Both	blood	Medline: Erythropoietin test
+Protein	151	Erythropoietin	EPO	P01588	Normal	Diagnostic	10.55 (2.6-18.5) mU/mL	Adult: >=18 yrs old	Both	blood	Medline: Erythropoietin test
+Protein	151	Erythropoietin	EPO	P01588	Chronic Kidney Disease	Diagnostic	<2.6 mU/mL	Adult: >=18 yrs old	Both	blood	Medline: Erythropoietin test
+Protein	151	Erythropoietin	EPO	P01588	Normal	Diagnostic	10.55 (2.6-18.5) mU/mL	Adult: >=18 yrs old	Both	blood	Medline: Erythropoietin test
+Protein	151	Erythropoietin	EPO	P01588	Anemia	Diagnostic	<2.6 mU/mL	Adult: >=18 yrs old	Both	blood	Medline: Erythropoietin test
+Protein	151	Erythropoietin	EPO	P01588	Normal	Diagnostic	10.55 (2.6-18.5) mU/mL	Adult: >=18 yrs old	Both	blood	Medline: Erythropoietin test
+Protein	152	Thyroid stimulating hormone	TSHB	P01222	Hyperthyroidism	Diagnostic	<0.4 mIU/L	Adult: >=18 yrs old	Both	blood	UCLA Health: TSH test
+Protein	152	Thyroid stimulating hormone	TSHB	P01222	Normal	Diagnostic	2.2 (0.4-4) mIU/L	Adult: >=18 yrs old	Both	blood	UCLA Health: TSH test
+Protein	152	Thyroid stimulating hormone	TSHB	P01222	Hypothyroidism	Diagnostic	>4.0 mIU/L	Adult: >=18 yrs old	Both	blood	UCLA Health: TSH test
+Protein	152	Thyroid stimulating hormone	TSHB	P01222	Normal	Diagnostic	2.2 (0.4-4) mIU/L	Adult: >=18 yrs old	Both	blood	UCLA Health: TSH test
+Protein	153	Thyroglobulin	TG	P01266	Thyroid Carcinoma	Diagnostic	>3 ug/L	Adult: >=18 yrs old	Both	blood	University Health Network: Understand your blood test results differentiated thyroid cancer
+Protein	153	Thyroglobulin	TG	P01266	Normal	Diagnostic	<3 (0-<3) ug/L	Adult: >=18 yrs old	Both	blood	University Health Network: Understand your blood test results differentiated thyroid cancer
+Protein	154	Prothrombin	F2	P00734	Combined Deficiency of Vitamin K Dependent Clotting Factors	Diagnostic	>1.1	Adult: >=18 yrs old	Both	blood	Mayo clinic laboratories: Prothrombin time test
+Protein	154	Prothrombin	F2	P00734	Normal	Diagnostic	1 (0.9-1.1)	Adult: >=18 yrs old	Both	blood	Mayo clinic laboratories: Prothrombin time test
+Protein	154	Prothrombin	F2	P00734	Liver Disease	Diagnostic	>1.1	Adult: >=18 yrs old	Both	blood	Mayo clinic: Prothrombin Time, Plasma
+Protein	154	Prothrombin	F2	P00734	Normal	Diagnostic	1 (0.9-1.1)	Adult: >=18 yrs old	Both	blood	Mayo clinic: Prothrombin Time, Plasma
+Protein	156	Tryptase	TPSAB1	Q15661	Anaphylaxis	Diagnostic	>11.5 ng/mL	Adult: >=18 yrs old	Both	blood	Mayo clinic laboratories: Tryptase, Serum
+Protein	156	Tryptase	TPSAB1	Q15661	Normal	Diagnostic	>11.5 ng/mL	Adult: >=18 yrs old	Both	blood	Mayo clinic laboratories: Tryptase, Serum
+Protein	156	Tryptase	TPSAB1	Q15661	Mastocytosis	Diagnostic	>11.5 ng/mL	Adult: >=18 yrs old	Both	blood	Mayo clinic: Tryptase
+Protein	156	Tryptase	TPSAB1	Q15661	Normal	Diagnostic	<11.5 ng/mL	Adult: >=18 yrs old	Both	blood	Mayo clinic: Tryptase
+Protein	158	Antithrombin	SERPINC1	P01008	Antithrombin III Deficiency	Diagnostic	57.5 (75-40) %	Adult: >=18 yrs old	Both	blood	Mayo clinic laboratories: Antithrombin activity
+Protein	158	Antithrombin	SERPINC1	P01008	Normal	Diagnostic	100 (80-120) %	Adult: >=18 yrs old	Both	blood	University of Rochester: Antithrombin (Activity and Antigen)
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Hypogonadism	Diagnostic	>57 nmol/L	Adult: >=18 yrs old	Male	blood	Labtests Online: Sex Hormone Binding Globulin (SHBG)
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Normal	Diagnostic	33.5 (10-57) nmol/L	Adult: >=18 yrs old	Male	blood	Healthline: Low SHBG
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Polycystic Ovary Syndrome	Diagnostic	<18 nmol/L	Adult: >=18 yrs old	Female	blood	Medline Plus: SHBG Blood Test
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Normal	Diagnostic	81 (18-144) nmol/L	Adult: >=18 yrs old	Female	blood	Healthline: Low SHBG
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Hypothyroidism	Diagnostic	<18 nmol/L	Adult: >=18 yrs old	Female	blood	Lab Tests Online: Sex hormone binding globulin
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Normal	Diagnostic	81 (18-144) nmol/L	Adult: >=18 yrs old	Female	blood	Health line: Low SHBG levels charts, symptoms
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Hypothyroidism	Diagnostic	<10 nmol/L	Adult: >=18 yrs old	Male	blood	Lab Tests Online: Sex hormone binding globulin
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Normal	Diagnostic	33.5 (10-57) nmol/L	Adult: >=18 yrs old	Male	blood	Health line: Low SHBG levels charts, symptoms
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Cushing's Syndrome	Diagnostic	<18 nmol/L	Adult: >=18 yrs old	Female	blood	Lab Tests Online: Sex hormone binding globulin
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Normal	Diagnostic	81 (18-144) nmol/L	Adult: >=18 yrs old	Female	blood	Health line: Low SHBG levels charts, symptoms
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Cushing's Syndrome	Diagnostic	<10 nmol/L	Adult: >=18 yrs old	Male	blood	Lab Tests Online: Sex hormone binding globulin
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Normal	Diagnostic	33.5 (10-57) nmol/L	Adult: >=18 yrs old	Male	blood	Health line: Low SHBG levels charts, symptoms
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Liver Disease	Diagnostic	>144 nmol/L	Adult: >=18 yrs old	Female	blood	Lab Tests Online: Sex hormone binding globulin
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Normal	Diagnostic	81 (18-144) nmol/L	Adult: >=18 yrs old	Female	blood	Health line: Low SHBG levels charts, symptoms
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Liver Disease	Diagnostic	>57 nmol/L	Adult: >=18 yrs old	Male	blood	Lab Tests Online: Sex hormone binding globulin
+Protein	159	Sex hormone binding globulin	SHBG	P04278	Normal	Diagnostic	33.5 (10-57) nmol/L	Adult: >=18 yrs old	Male	blood	Health line: Low SHBG levels charts, symptoms
+Protein	160	Apolipoprotein B-100	APOB	P04114	Cardiovascular disease	Diagnostic	>120 mg/dL	Adult: >=18 yrs old	Both	blood	University of Rochester: Apolipoprotein B-100
+Protein	160	Apolipoprotein B-100	APOB	P04114	Normal	Diagnostic	<100 mg/dL	Adult: >=18 yrs old	Both	blood	University of Rochester: Apolipoprotein B-100
+Protein	161	Von Willebrand Factor	VWF	P04275	Von Willebrand Disease Type 3	Diagnostic	0 %	Adult: >=18 yrs old	Both	blood	Orphanet: Von Willebrand disease
+Protein	161	Von Willebrand Factor	VWF	P04275	Normal	Diagnostic	125 (50-200) %	Adult: >=18 yrs old	Both	blood	Mayo Clinic: Von willebrand factor antigen test
+Protein	161	Von Willebrand Factor	VWF	P04275	Von Willebrand Disease Type 1	Diagnostic	<40 %	Adult: >=18 yrs old	Both	blood	Orphanet: Von Willebrand disease
+Protein	161	Von Willebrand Factor	VWF	P04275	Normal	Diagnostic	125 (50-200) %	Adult: >=18 yrs old	Both	blood	Mayo Clinic: Von willebrand factor antigen test
+Protein	162	Apolipoprotein A1	APOA1	P02647	Coronary Artery Disease	Diagnostic	<140 mg/dL	Adult: >=18 yrs old	Female	serum	Mayo clinic laboratories: Apolipoprotein A1 and B, Serum
+Protein	162	Apolipoprotein A1	APOA1	P02647	Normal	Diagnostic	>=140 mg/dL	Adult: >=18 yrs old	Female	serum	Mayo clinic laboratories: Apolipoprotein A1 and B, Serum
+Protein	162	Apolipoprotein A1	APOA1	P02647	Coronary Artery Disease	Diagnostic	<115 mg/dL	Children: 2-17 yrs old	Female	serum	Mayo clinic laboratories: Apolipoprotein A1 and B, Serum
+Protein	162	Apolipoprotein A1	APOA1	P02647	Normal	Diagnostic	>=120 mg/dL	Children: 2-17 yrs old	Female	serum	Mayo clinic laboratories: Apolipoprotein A1 and B, Serum
+Protein	162	Apolipoprotein A1	APOA1	P02647	Coronary Artery Disease	Diagnostic	<120 mg/dL	Adult: >=18 yrs old	Male	serum	Mayo clinic laboratories: Apolipoprotein A1 and B, Serum
+Protein	162	Apolipoprotein A1	APOA1	P02647	Normal	Diagnostic	>=120 mg/dL	Adult: >=18 yrs old	Male	serum	Mayo clinic laboratories: Apolipoprotein A1 and B, Serum
+Protein	162	Apolipoprotein A1	APOA1	P02647	Normal	Diagnostic	>=120 mg/dL	Children: 2-17 yrs old	Male	serum	Mayo clinic laboratories: Apolipoprotein A1 and B, Serum
+Protein	163	Clostridium difficile glutamate dehydrogenase		P27346	Clostridium Difficile Infection	Diagnostic	Positive	Adult: >=18 yrs old	Both	blood	Clostridioides (formerly Clostridium) difficile infection in adults: Clinical manifestations and diagnosis
+Protein	163	Clostridium difficile glutamate dehydrogenase		P27346	Normal	Diagnostic	Negative	Adult: >=18 yrs old	Both	blood	Clostridioides (formerly Clostridium) difficile infection in adults: Clinical manifestations and diagnosis
+Protein	165	Transferrin receptor (soluble)	TFRC	P02786	Iron Deficiency	Diagnostic	>4.4 mg/L	Adult: >=18 yrs old	Female	serum	University of Iowa Laboratory Services Handbook: Soluble Transferrin Receptor Level
+Protein	165	Transferrin receptor (soluble)	TFRC	P02786	Normal	Diagnostic	3.15 (1.9-4.4) mg/L	Adult: >=18 yrs old	Female	serum	University of Iowa Laboratory Services Handbook: Soluble Transferrin Receptor Level
+Protein	165	Transferrin receptor (soluble)	TFRC	P02786	Iron Deficiency	Diagnostic	>5.0 mg/L	Adult: >=18 yrs old	Male	serum	University of Iowa Laboratory Services Handbook: Soluble Transferrin Receptor Level
+Protein	165	Transferrin receptor (soluble)	TFRC	P02786	Normal	Diagnostic	3.6 (2.2-5) mg/L	Adult: >=18 yrs old	Male	serum	University of Iowa Laboratory Services Handbook: Soluble Transferrin Receptor Level
+Protein	166	Estrogen receptor	ESR1	P03372	Breast Cancer	Diagnostic	Negative	Adult: >=18 yrs old	Both	cell sample	www.breastcancer.org
+Protein	166	Estrogen receptor	ESR1	P03372	Normal	Diagnostic	Postivie	Adult: >=18 yrs old	Both	cell sample	www.breastcancer.org
+Protein	167	Progesterone receptor	PGR	P06401	Normal	Diagnostic	Postivie	Adult: >=18 yrs old	Both	cell sample	www.breastcancer.org
+Protein	168	Fibrinogen		P05156	Bleeding Disorder	Diagnostic	<50 mg/dL	Adult: >=18 yrs old	Both	blood	University of Rochester: Factor I
+Protein	168	Fibrinogen		P05156	Normal	Diagnostic	300 (200-400) mg/dL	Adult: >=18 yrs old	Both	blood	University of Rochester: Factor I
+Protein	169	Factor V	F5	P12259	Bleeding Disorder	Diagnostic	5.5 (1-10) %	Adult: >=18 yrs old	Both	blood	University of Rochester: Factor V
+Protein	169	Factor V	F5	P12259	Normal	Diagnostic	80 (60-100) %	Adult: >=18 yrs old	Both	blood	University of Rochester: Factor V
+Protein	169	Factor V	F5	P12259	Factor V deficiency	Diagnostic	<60% %	Adult: >=18 yrs old	Both	blood	Canadian hemophilia society
+Protein	169	Factor V	F5	P12259	Normal	Diagnostic	80 (60-100) %	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Factor V
+Protein	170	Transferrin	TF	A5A6I6	Hemochromatosis	Diagnostic	>60% %	Adult: >=18 yrs old	Both	serum	Mayo clinic: Transferrin, Serum
+Protein	170	Transferrin	TF	A5A6I6	Normal	Diagnostic	35 (20-50) %	Adult: >=18 yrs old	Both	serum	Mayo clinic: Transferrin, Serum
+Protein	170	Transferrin	TF	A5A6I6	Advanced iron overload	Diagnostic	>90 %	Adult: >=18 yrs old	Both	Serum	Mayo clinic: Transferrin, Serum
+Protein	170	Transferrin	TF	A5A6I6	Normal	Diagnostic	35 (20-50) %	Adult: >=18 yrs old	Both	Serum	""
+Protein	171	Follicle stimulating hormone		P01225	Infertility	Diagnostic	<1.4 or >15.5 IU/mL	Adult: >=18 yrs old	Male	blood	Healthline: FSH
+Protein	171	Follicle stimulating hormone		P01225	Normal	Diagnostic	8.45 (1.4-15.5) IU/mL	Adult: >=18 yrs old	Male	blood	University of Rochester: Follicle-Stimulating Hormone
+Protein	171	Follicle stimulating hormone		P01225	Infertility	Diagnostic	<1.4 or >9.9 IU/mL	Adult: >=18 yrs old	Female	blood	Healthline: FSH
+Protein	171	Follicle stimulating hormone		P01225	Normal	Diagnostic	5.65 (1.4-9.9) IU/mL	Adult: >=18 yrs old	Female	blood	University of Rochester: Follicle-Stimulating Hormone
+Protein	171	Follicle stimulating hormone		P01225	Infertility	Diagnostic	<6.2 or >17.2 IU/mL	Adult: >=18 yrs old	Female	blood	Healthline: FSH
+Protein	171	Follicle stimulating hormone		P01225	Normal	Diagnostic	11.7 (6.2-17.2) IU/mL	Adult: >=18 yrs old	Female	blood	University of Rochester: Follicle-Stimulating Hormone
+Protein	171	Follicle stimulating hormone		P01225	Infertility	Diagnostic	<1.1 or >9.2 IU/mL	Adult: >=18 yrs old	Female	blood	Healthline: FSH
+Protein	171	Follicle stimulating hormone		P01225	Normal	Diagnostic	5.15 (1.1-9.2) IU/mL	Adult: >=18 yrs old	Female	blood	University of Rochester: Follicle-Stimulating Hormone
+Protein	171	Follicle stimulating hormone		P01225	Polycystic Ovary Syndrome	Diagnostic	<=1.4 IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Follicle-Stimulating Hormone (FSH), Serum
+Protein	171	Follicle stimulating hormone		P01225	Normal	Diagnostic	12.3 (1.4-23.2) IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Follicle-Stimulating Hormone (FSH), Serum
+Protein	171	Follicle stimulating hormone		P01225	Primary hypogonadism	Diagnostic	>15.8 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Follicle-Stimulating Hormone (FSH), Serum
+Protein	171	Follicle stimulating hormone		P01225	Normal	Diagnostic	8.5 (1.2-15.8) IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Follicle-Stimulating Hormone (FSH), Serum
+Protein	171	Follicle stimulating hormone		P01225	Precocious puberty	Diagnostic	>8.9 IU/L	Children: 2-17 yrs old	Female	Serum	Mayo Clinic: Follicle-Stimulating Hormone (FSH), Serum
+Protein	171	Follicle stimulating hormone		P01225	Normal	Diagnostic	4.9 (0.9-8.9) IU/L	Children: 2-17 yrs old	Female	Serum	Mayo Clinic: Follicle-Stimulating Hormone (FSH), Serum
+Protein	171	Follicle stimulating hormone		P01225	Complete testicular feminization syndrome	Diagnostic	>15.5 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Follicle-Stimulating Hormone (FSH), Serum
+Protein	171	Follicle stimulating hormone		P01225	Normal	Diagnostic	8.5 (1.2-15.8) IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Follicle-Stimulating Hormone (FSH), Serum
+Protein	171	Follicle stimulating hormone		P01225	Hypopituitarism	Diagnostic	<1.4 IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Follicle-Stimulating Hormone (FSH), Serum
+Protein	171	Follicle stimulating hormone		P01225	Normal	Diagnostic	12.3 (1.4-23.2) IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Follicle-Stimulating Hormone (FSH), Serum
+Protein	173	Haptoglobin	HP	P00738	Hemolytic anemia	Diagnostic	<50 mg/dL	Adult: >=18 yrs old	Both	blood	University of Rochester: Haptoglobin
+Protein	173	Haptoglobin	HP	P00738	Normal	Diagnostic	58.5 (50-220) mg/dL	Adult: >=18 yrs old	Both	blood	University of Rochester: Haptoglobin
+Protein	175	Hemoglobin S		P69905	Sickle Cell Anemia	Diagnostic	Positive	Adult: >=18 yrs old	Both	blood	Mayo clinic: Hemoglobin S blood screen
+Protein	175	Hemoglobin S		P69905	Normal	Diagnostic	Negative	Adult: >=18 yrs old	Both	blood	Mayo clinic: Hemoglobin S blood screen
+Protein	176	HER2	ERBB2	P04626	Breast Cancer	Diagnostic	<1	Adult: >=18 yrs old	Both	biopsy sample	Canadian Cancer Society
+Protein	176	HER2	ERBB2	P04626	Normal	Diagnostic	>=3	Adult: >=18 yrs old	Both	biopsy sample	Canadian Cancer Society
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Pregnancy	Diagnostic	Positive	Adult: >=18 yrs old	Female	urine	Medline plus: hCG in urine
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	Negative	Adult: >=18 yrs old	Female	urine	Medline plus: hCG in urine
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Preterm Birth	Diagnostic	<0.5 or >2.0 Multiple of Median (MoM)	Adult: >=18 yrs old	Female	blood	Pubmed_ID: 26368010
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	1.5 Multiple of Median (MoM)	Adult: >=18 yrs old	Female	blood	Pubmed_ID: 26368010
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Hepatocellular Carcinoma	Diagnostic	>1.0 IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.0 IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Hepatocellular Carcinoma	Diagnostic	>1.4 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.4 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Nonseminomatous testicular cancer	Diagnostic	>1.4 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.4 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Seminoma	Diagnostic	>1.4 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.4 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Teratomas	Diagnostic	>1.0 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.4 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Teratomas	Diagnostic	>1.4 IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.0 IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Teratomas	Diagnostic	>1.4	Children: 2-17 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.4	Children: 2-17 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Teratomas	Diagnostic	>1.0	Children: 2-17 yrs old	Female	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.0	Children: 2-17 yrs old	Female	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Hepatoblastomas	Diagnostic	>1.4 IU/L	Children: 2-17 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.4 IU/L	Children: 2-17 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Hepatoblastomas	Diagnostic	>1.0 IU/L	Children: 2-17 yrs old	Female	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.0 IU/L	Children: 2-17 yrs old	Female	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Cholangiocarcinoma	Diagnostic	>1.0 IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.0 IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Cholangiocarcinoma	Diagnostic	>1.4 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.4 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.4 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Islet cell tumors	Diagnostic	>1.4 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.4 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.4 IU/L	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Islet cell tumors	Diagnostic	>7.0 IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<7.0 IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Islet cell tumors	Diagnostic	>1.0 IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	177	Human Chorionic Gonadotropin	CGB3	P0DN86	Normal	Diagnostic	<1.0 IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Beta-Human Chorionic Gonadotropin, Quantitative, Serum
+Protein	178	Human growth hormone	GH1	P01241	Acromegaly	Diagnostic	>0.53 ng/mL	Adult: >=18 yrs old	Both	blood	Mayo clinic: human growth hormone
+Protein	178	Human growth hormone	GH1	P01241	Normal	Diagnostic	<0.3 ng/mL	Adult: >=18 yrs old	Both	blood	Mayo clinic: human growth hormone
+Protein	178	Human growth hormone	GH1	P01241	Growth Hormone Deficiency	Diagnostic	<4 ng/mL	Adult: >=18 yrs old	Both	blood	Mayo clinic: human growth hormone
+Protein	178	Human growth hormone	GH1	P01241	Normal	Diagnostic	>4 ng/mL	Adult: >=18 yrs old	Both	blood	Mayo clinic: human growth hormone
+Protein	178	Human growth hormone	GH1	P01241	Growth Hormone Deficiency	Diagnostic	<5 ng/mL	Children: 2-17 yrs old	Both	blood	Mayo clinic: human growth hormone
+Protein	178	Human growth hormone	GH1	P01241	Normal	Diagnostic	>5 ng/mL	Children: 2-17 yrs old	Both	blood	Mayo clinic: human growth hormone
+Protein	178	Human growth hormone	GH1	P01241	Acromegaly	Diagnostic	>0.3 ng/mL	Adult: >=18 yrs old	Both	Serum	Mayo Clinic: Growth Hormone, Serum
+Protein	178	Human growth hormone	GH1	P01241	Normal	Diagnostic	<0.3 ng/mL	Adult: >=18 yrs old	Both	Serum	Mayo Clinic: Growth Hormone, Serum
+Protein	183	Kappa/Lambda light chains			Amyloidosis	Diagnostic	<0.26 or >1.65	Adult: >=18 yrs old	Both	blood	Labtests online: Serum Free Light Chain
+Protein	183	Kappa/Lambda light chains			Amyloidosis	Diagnostic	>1.94	Adult: >=18 yrs old	Both	blood	Labtests online: Serum Free Light Chain
+Protein	183	Kappa/Lambda light chains			Normal	Diagnostic	1.135 (0.33-1.94)	Adult: >=18 yrs old	Both	blood	Mayo clinic: free light chain
+Protein	183	Kappa/Lambda light chains			Amyloidosis	Diagnostic	>2.63	Adult: >=18 yrs old	Both	blood	Labtests online: Serum Free Light Chain
+Protein	183	Kappa/Lambda light chains			Normal	Diagnostic	1.6 (0.57-2.63)	Adult: >=18 yrs old	Both	blood	Mayo clinic: free light chain
+Protein	186	Lactoferrin	LTF	P02788	Inflammatory Bowel Disease	Diagnostic	Positive	Adult: >=18 yrs old	Both	fecal	Mayo clinic: Fecal lactoferrin
+Protein	186	Lactoferrin	LTF	P02788	Normal	Diagnostic	Negative	Adult: >=18 yrs old	Both	fecal	Mayo clinic: Fecal lactoferrin
+Protein	187	Leptin	LEP	P41159	leptin deficiency	Diagnostic	<3.3 ng/mL	Adult: >=18 yrs old	Female	Serum	Lab Tests Online: Leptin
+Protein	187	Leptin	LEP	P41159	Normal	Diagnostic	15 (3.3-18.3) ng/mL	Adult: >=18 yrs old	Female	Serum	Mayo clinic: Leptin
+Protein	187	Leptin	LEP	P41159	leptin deficiency	Diagnostic	<0.7 ng/mL	Adult: >=18 yrs old	Male	Serum	Lab Tests Online: Leptin
+Protein	187	Leptin	LEP	P41159	Normal	Diagnostic	4.6 (0.7-5.3) ng/mL	Adult: >=18 yrs old	Male	Serum	Mayo clinic: Leptin
+Protein	188	Luteinizing hormone	LHB	Q8WXL0	Hypogonadism	Diagnostic	>14.6 IU/L	Adult: >=18 yrs old	Female	serum	Mayo clinic: Luteinizing Hormone
+Protein	188	Luteinizing hormone	LHB	Q8WXL0	Normal	Diagnostic	8.25 (1.9-14.6) IU/L	Adult: >=18 yrs old	Female	serum	Mayo clinic: Luteinizing Hormone
+Protein	188	Luteinizing hormone	LHB	Q8WXL0	Hypogonadism	Diagnostic	>118 IU/L	Adult: >=18 yrs old	Female	serum	Mayo clinic: Luteinizing Hormone
+Protein	188	Luteinizing hormone	LHB	Q8WXL0	Normal	Diagnostic	65.1 (12.2-118) IU/L	Adult: >=18 yrs old	Female	serum	Mayo clinic: Luteinizing Hormone
+Protein	188	Luteinizing hormone	LHB	Q8WXL0	Hypogonadism	Diagnostic	>12.9 IU/L	Adult: >=18 yrs old	Female	serum	Mayo clinic: Luteinizing Hormone
+Protein	188	Luteinizing hormone	LHB	Q8WXL0	Normal	Diagnostic	6.8 (0.7-12.9) IU/L	Adult: >=18 yrs old	Female	serum	Mayo clinic: Luteinizing Hormone
+Protein	188	Luteinizing hormone	LHB	Q8WXL0	Hypogonadism	Diagnostic	>65.4 IU/L	Adult: >=18 yrs old	Female	serum	Mayo clinic: Luteinizing Hormone
+Protein	188	Luteinizing hormone	LHB	Q8WXL0	Normal	Diagnostic	35.35 (5.3-65.4) IU/L	Adult: >=18 yrs old	Female	serum	Mayo clinic: Luteinizing Hormone
+Protein	188	Luteinizing hormone	LHB	Q8WXL0	Ovulation prediction (midcycle peak)	Diagnostic	(12.2-118) IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Luteinizing Hormone (LH), Serum
+Protein	188	Luteinizing hormone	LHB	Q8WXL0	Normal	Diagnostic	8.25 (1.9-14.6) IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Luteinizing Hormone (LH), Serum
+Protein	188	Luteinizing hormone	LHB	Q8WXL0	Hypopituitarism	Diagnostic	<0.7 IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Luteinizing Hormone (LH), Serum
+Protein	188	Luteinizing hormone	LHB	Q8WXL0	Normal	Diagnostic	6.8 (0.7-12.9) IU/L	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Luteinizing Hormone (LH), Serum
+Protein	190	Myoglobin	MB	P02144	Skeletal Muscle Damage	Diagnostic	>90 ug/L	Adult: >=18 yrs old	Both	blood	University of Rochester: Myoglobin (blood)
+Protein	190	Myoglobin	MB	P02144	Normal	Diagnostic	<90 ug/L	Adult: >=18 yrs old	Both	blood	University of Rochester: Myoglobin (blood)
+Protein	190	Myoglobin	MB	P02144	Myocardial Infarction	Diagnostic	>90 ug/L	Adult: >=18 yrs old	Both	Blood	University of Rochester Health Encyclopedia: Myoglobin (Blood)
+Protein	190	Myoglobin	MB	P02144	Normal	Diagnostic	<90 ug/L	Adult: >=18 yrs old	Both	Blood	University of Rochester Health Encyclopedia: Myoglobin (Blood)
+Protein	191	Tau protein	MAPT	P10636	Alzheimer's Disease	Diagnostic	524 (244-804) pg/mL	Elderly: 65-100+ yrs old	Both	CSF	Pubmed_ID: 8748926
+Protein	191	Tau protein	MAPT	P10636	Normal	Diagnostic	185 (135-235) pg/mL	Elderly: 65-100+ yrs old	Both	CSF	Pubmed_ID: 8748926
+Protein	193	Tartrate resistant acid phosphatase	ACP5	P13686	Chronic Lymphocytic Leukemia	Diagnostic	> 5 ng/mL	Adult: >=18 yrs old	Both	blood	Benioff Children's Hospital: TRAP
+Protein	193	Tartrate resistant acid phosphatase	ACP5	P13686	Normal	Diagnostic	<5 ng/mL	Adult: >=18 yrs old	Both	blood	Benioff Children's Hospital: TRAP
+Protein	194	Procalcitonin	CLACA	P01258	Sepsis	Diagnostic	>2 ng/mL	Adult: >=18 yrs old	Both	serum	Mayo clinic: procalcitonin, serum
+Protein	194	Procalcitonin	CLACA	P01258	Normal	Diagnostic	<=0.15 ng/mL	Adult: >=18 yrs old	Both	serum	Mayo clinic: procalcitonin, serum
+Protein	194	Procalcitonin	CLACA	P01258	Autoimmune Disease	Diagnostic	>0.5 ng/mL	All	Both	Serum	Mayo clinic: procalcitonin, serum
+Protein	194	Procalcitonin	CLACA	P01258	Normal	Diagnostic	<=0.15 ng/mL	All	Both	Serum	Mayo clinic: procalcitonin, serum
+Protein	194	Procalcitonin	CLACA	P01258	Viral Infection	Diagnostic	>0.5 ng/mL	All	Both	Serum	Mayo clinic: procalcitonin, serum
+Protein	194	Procalcitonin	CLACA	P01258	Normal	Diagnostic	<=0.15 ng/mL	All	Both	Serum	Mayo clinic: procalcitonin, serum
+Protein	194	Procalcitonin	CLACA	P01258	Chronic inflammation	Diagnostic	>0.5 ng/mL	All	Both	Serum	Mayo clinic: procalcitonin, serum
+Protein	194	Procalcitonin	CLACA	P01258	Normal	Diagnostic	<=0.15 ng/mL	All	Both	Serum	Mayo clinic: procalcitonin, serum
+Protein	196	Prolactin	PRL	P01236	Hyperprolactinemia	Diagnostic	>23 ug/L	Adult: >=18 yrs old	Female	blood	Healthlink BC: Prolactin
+Protein	196	Prolactin	PRL	P01236	Normal	Diagnostic	13.5 (4-23) ug/L	Adult: >=18 yrs old	Female	blood	Healthlink BC: Prolactin
+Protein	196	Prolactin	PRL	P01236	Hyperprolactinemia	Diagnostic	>15 ug/L	Adult: >=18 yrs old	Male	blood	Healthlink BC: Prolactin
+Protein	196	Prolactin	PRL	P01236	Normal	Diagnostic	9 (3-15) ug/L	Adult: >=18 yrs old	Male	blood	Healthlink BC: Prolactin
+Protein	196	Prolactin	PRL	P01236	Hyperprolactinemia	Diagnostic	>20 ug/L	Children: 2-17 yrs old	Both	blood	Healthlink BC: Prolactin
+Protein	196	Prolactin	PRL	P01236	Normal	Diagnostic	11.6 (3.2-20) ug/L	Children: 2-17 yrs old	Both	blood	Healthlink BC: Prolactin
+Protein	196	Prolactin	PRL	P01236	Pituitary macroadenomas	Diagnostic	>250 ng/mL	All	Both	Serum	Mayo Clinic: Prolactin, Serum
+Protein	196	Prolactin	PRL	P01236	Normal	Diagnostic	9.6 (4-15.2) ng/mL	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Prolactin, Serum
+Protein	196	Prolactin	PRL	P01236	Normal	Diagnostic	14.1 (4.8-23.3) ng/mL	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Prolactin, Serum
+Protein	196	Prolactin	PRL	P01236	Pituitary macroprolactinoma	Diagnostic	>500 ng/mL	All	Both	Serum	Mayo Clinic: Prolactin, Serum
+Protein	196	Prolactin	PRL	P01236	Normal	Diagnostic	9.6 (4-15.2) ng/mL	Adult: >=18 yrs old	Male	Serum	Mayo Clinic: Prolactin, Serum
+Protein	196	Prolactin	PRL	P01236	Normal	Diagnostic	14.1 (4.8-23.3) ng/mL	Adult: >=18 yrs old	Female	Serum	Mayo Clinic: Prolactin, Serum
+Protein	197	Prostate specific antigen	KLK3	P07288	Prostate Cancer	Diagnostic	>4 ng/mL	Adult: >=18 yrs old	Male	blood	NIH, National Cancer Institute: PSA test
+Protein	197	Prostate specific antigen	KLK3	P07288	Normal	Diagnostic	<4 ng/mL	Adult: >=18 yrs old	Male	blood	NIH, National Cancer Institute: PSA test
+Protein	197	Prostate specific antigen	KLK3	P07288	Prostatitis	Diagnostic	(4-10) ng/mL	Adult: >=18 yrs old	Male	blood	Lab Tests Online: Prostate Specific Antigen (PSA)
+Protein	197	Prostate specific antigen	KLK3	P07288	Normal	Diagnostic	<4 ng/mL	Adult: >=18 yrs old	Male	blood	NIH, National Cancer Institute: PSA test
+Protein	197	Prostate specific antigen	KLK3	P07288	Benign prostate hyperplasia	Diagnostic	(4-10) ng/mL	Adult: >=18 yrs old	Male	blood	Lab Tests Online: Prostate Specific Antigen (PSA)
+Protein	197	Prostate specific antigen	KLK3	P07288	Normal	Diagnostic	<4 ng/mL	Adult: >=18 yrs old	Male	blood	NIH, National Cancer Institute: PSA test
+Protein	198	Protein C	PROC	P04070	Protein C deficiency	Diagnostic	<70 %	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Protein C
+Protein	198	Protein C	PROC	P04070	Normal	Diagnostic	105 (70-140) %	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: Protein C
+Protein	199	Protein S	PROS1	P07225	Protein S deficiency	Diagnostic	<60 %	Adult: >=18 yrs old	Both	blood	University of California San Franscisco: Protein S blood test
+Protein	199	Protein S	PROS1	P07225	Normal	Diagnostic	105 (60-150) %	Adult: >=18 yrs old	Both	blood	University of California San Franscisco: Protein S blood test
+Protein	200	Albumin	ALB	P02768	Chronic Kidney Disease	Diagnostic	>30 mg	Adult: >=18 yrs old	Both	urine	Mayo clinic: Microalbumin test
+Protein	200	Albumin	ALB	P02768	Normal	Diagnostic	<30 mg	Adult: >=18 yrs old	Both	urine	Mayo clinic: Microalbumin test
+Protein	200	Albumin	ALB	P02768	Liver Disease	Diagnostic	<3.4 g/dL	Adult: >=18 yrs old	Both	blood	University of Rochester Health Encyclopedia: Albumin (Blood)
+Protein	200	Albumin	ALB	P02768	Normal	Diagnostic	4.4 (3.4-5.4) g/dL	Adult: >=18 yrs old	Both	blood	University of Rochester Health Encyclopedia: Albumin (Blood)
+Protein	200	Albumin	ALB	P02768	Bacterial Infections	Diagnostic	>5.4 g/dL	All	Both	blood	University of Rochester Health Encyclopedia: Albumin (Blood)
+Protein	200	Albumin	ALB	P02768	Normal	Diagnostic	4.4 (3.4-5.4) g/dL	Adult: >=18 yrs old	Both	blood	University of Rochester Health Encyclopedia: Albumin (Blood)
+Protein	200	Albumin	ALB	P02768	Cirrhosis	Diagnostic	<3.4 g/dL	All	Both	blood	BC Cancer:
+Protein	200	Albumin	ALB	P02768	Normal	Diagnostic	4.4 (3.4-5.4) g/dL	Adult: >=18 yrs old	Both	blood	University of Rochester Health Encyclopedia: Albumin (Blood)
+Protein	200	Albumin	ALB	P02768	Burns	Diagnostic	>5.4 g/dL	All	Both	blood	University of Rochester Health Encyclopedia: Albumin (Blood)
+Protein	200	Albumin	ALB	P02768	Normal	Diagnostic	4.4 (3.4-5.4) g/dL	Adult: >=18 yrs old	Both	blood	University of Rochester Health Encyclopedia: Albumin (Blood)
+Protein	200	Albumin	ALB	P02768	Inflammatory disease	Diagnostic	<3.4 g/dL	All	Both	blood	University of Rochester Health Encyclopedia: Albumin (Blood)
+Protein	200	Albumin	ALB	P02768	Normal	Diagnostic	4.4 (3.4-5.4) g/dL	Adult: >=18 yrs old	Both	blood	University of Rochester Health Encyclopedia: Albumin (Blood)
+Protein	200	Albumin	ALB	P02768	Malnutrition	Diagnostic	<3.4 g/dL	Adult: >=18 yrs old	Both	blood	Medline plus: albumin blood test
+Protein	200	Albumin	ALB	P02768	Normal	Diagnostic	4.4 (3.4-5.4) g/dL	Adult: >=18 yrs old	Both	blood	University of Rochester Medical Center: albumin blood
+Protein	203	Alanine transaminase	GPT	P24298	Diabetes Mellitus Type 2	Diagnostic	>26 U/L	Adult: >=18 yrs old	Male	Serum	Kashima, S., Inoue, K., Matsumoto, M. & Akimoto, K. Do non-glycaemic markers add value to plasma glucose and hemoglobin a1c in predicting diabetes? Yuport health checkup center study. PLoS One 8, e66899 (2013).
+Protein	203	Alanine transaminase	GPT	P24298	Diabetes Mellitus Type 2	Diagnostic	>17 U/L	Adult: >=18 yrs old	Female	Serum	Kashima, S., Inoue, K., Matsumoto, M. & Akimoto, K. Do non-glycaemic markers add value to plasma glucose and hemoglobin a1c in predicting diabetes? Yuport health checkup center study. PLoS One 8, e66899 (2013).
+Protein	203	Alanine transaminase	GPT	P24298	Liver Disease	Diagnostic	>33 IU/L	Adult: >=18 yrs old	Male	blood	Health line: ALT test
+Protein	203	Alanine transaminase	GPT	P24298	Normal	Diagnostic	33 (29-33) IU/L	Adult: >=18 yrs old	Male	blood	Health line: ALT test
+Protein	203	Alanine transaminase	GPT	P24298	Liver Disease	Diagnostic	>25 IU/L	Adult: >=18 yrs old	Female	blood	Health line: ALT test
+Protein	203	Alanine transaminase	GPT	P24298	Normal	Diagnostic	22 (19-25) IU/L	Adult: >=18 yrs old	Female	blood	Health line: ALT test
+Protein	203	Alanine transaminase	GPT	P24298	Diabetes Mellitus Type 2	Diagnostic	22 (16-30) U/L	Adult: >=18 yrs old	Male	Serum	Kashima, S., Inoue, K., Matsumoto, M. & Akimoto, K. Do non-glycaemic markers add value to plasma glucose and hemoglobin a1c in predicting diabetes? Yuport health checkup center study. PLoS One 8, e66899 (2013).
+Protein	203	Alanine transaminase	GPT	P24298	Diabetes Mellitus Type 2	Diagnostic	16 (12-20) U/L	Adult: >=18 yrs old	Female	Serum	Kashima, S., Inoue, K., Matsumoto, M. & Akimoto, K. Do non-glycaemic markers add value to plasma glucose and hemoglobin a1c in predicting diabetes? Yuport health checkup center study. PLoS One 8, e66899 (2013).
+Protein	203	Alanine transaminase	GPT	P24298	Chronic Active Hepatitis	Diagnostic	<(4*max normal) IU/L	Adult: >=18 yrs old	Both	blood	Lab Tests Online: Alanine Aminotransferase (ALT)
+Protein	203	Alanine transaminase	GPT	P24298	Normal	Diagnostic	<36 IU/L	Adult: >=18 yrs old	Female	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Normal	Diagnostic	<50 IU/L	Adult: >=18 yrs old	Male	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Acute viral hepatitis	Diagnostic	>1000 IU/L	Adult: >=18 yrs old	Both	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Normal	Diagnostic	<36 IU/L	Adult: >=18 yrs old	Female	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Normal	Diagnostic	<50 IU/L	Adult: >=18 yrs old	Male	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Ischemic hepatitis	Diagnostic	>1000 IU/L	Adult: >=18 yrs old	Both	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Normal	Diagnostic	<36 IU/L	Adult: >=18 yrs old	Female	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Normal	Diagnostic	<50 IU/L	Adult: >=18 yrs old	Male	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Hepatotoxicity	Diagnostic	>1000 IU/L	Adult: >=18 yrs old	Both	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Normal	Diagnostic	<36 IU/L	Adult: >=18 yrs old	Female	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Normal	Diagnostic	<50 IU/L	Adult: >=18 yrs old	Male	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Liver cancer	Diagnostic	>36 IU/L	Adult: >=18 yrs old	Both	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Normal	Diagnostic	<36 IU/L	Adult: >=18 yrs old	Female	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Normal	Diagnostic	<50 IU/L	Adult: >=18 yrs old	Male	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Liver metastase	Diagnostic	>36 IU/L	Adult: >=18 yrs old	Both	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Normal	Diagnostic	<36 IU/L	Adult: >=18 yrs old	Female	blood	BC Cancer:
+Protein	203	Alanine transaminase	GPT	P24298	Normal	Diagnostic	<50 IU/L	Adult: >=18 yrs old	Male	blood	BC Cancer:
+Protein	205	Anti-gliadin antibody IgG			Celiac Disease	Diagnostic	>30 U	All	Both	serum	Mayo clinic: Gliadin (Deamidated) Antibodies Evaluation, IgG and IgA, Serum
+Protein	205	Anti-gliadin antibody IgG			Normal	Diagnostic	<20.0 U	All	Both	serum	Pubmed_ID: 89031
+Protein	206	D-dimer			Disseminated intravascular coagulation	Diagnostic	>500 ng/mL Fibrinogen Equivalent Unit	Adult: >=18 yrs old	Both	blood	Mayo clinic: D-dimer plasma
+Protein	206	D-dimer			Normal	Diagnostic	<=500 ng/mL Fibrinogen Equivalent Unit	Adult: >=18 yrs old	Both	blood	Mayo clinic: D-dimer plasma
