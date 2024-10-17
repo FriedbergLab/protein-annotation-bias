@@ -1,14 +1,10 @@
 import os
-import io
 import sys
-import time
 import pandas as pd
 import obonet
 import Bio
 from Bio.UniProt.GOA import gafiterator
-from Bio import Entrez
 from datetime import datetime
-import xml.etree.ElementTree as ET
 import ia as ia
 
 
@@ -68,8 +64,6 @@ def process_gaf_file(gaf_file):
 
 
 def extract_GAF_file(gaf_file_path):
-    # Path to the GAF file
-    # gaf_file_path = '/home/ahphan/RotationData/Friedberg/gaf_files/All_Annotations_Archives/04Dec22goa_human.gaf'
     data = []
     # Open the GAF file and parse it
     gaf_content = process_gaf_file(gaf_file_path)

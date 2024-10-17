@@ -2,3 +2,5 @@
 0_data/processed_GO
 Rplots.pdf
 4_figures/
+3_delay_curation/*.csv
+3_delay_curation/*.gaf
