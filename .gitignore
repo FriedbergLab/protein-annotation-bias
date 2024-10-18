@@ -1,6 +1,8 @@
 0_data/__pycache__
 0_data/processed_GO
+0_data/ext_data
 Rplots.pdf
 4_figures/
 3_delay_curation/*.csv
 3_delay_curation/*.gaf
+1_metrics/*.RDS
